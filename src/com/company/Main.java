@@ -63,7 +63,7 @@ public class Main extends JFrame{
             System.out.println(line);
 
             if(-1 < line.indexOf("*")){
-                /** commit line **/
+                // commit line
                 cntHeight = cntHeight+1;
 
                 Line2D lin = null;
@@ -73,12 +73,12 @@ public class Main extends JFrame{
                 if(0 != commitBranch) commitBranch = commitBranch / 2;
 
                 if(null == upLine){
-                    /** first line **/
+                    // first line
                     int width = DEFAULT_X + (commitBranch * LINE_WIDTH) - (LINE_WIDTH / 2);
                     int height = DEFAULT_Y + LINE_HEIGHT/2;
 
                 }else{
-                    /** other line **/
+                    // other line
                     int cntUpPoint = upCommitLine.replaceAll(" ","").length();
                     int cntUpCommitPoint = upCommitLine.replaceAll(" ","").indexOf("*");
 
@@ -87,7 +87,7 @@ public class Main extends JFrame{
 
                     upLine = upLine.replaceAll(" ","");
 
-                    /*  "/|" , "|\" , "\|" , "|/" , "|" , " \" , " /"  */
+                    //  "/|" , "|\" , "\|" , "|/" , "|" , " \" , " /"
                     for(int j=0; j<upLine.length() ;++j){
                         String pipe = upLine.charAt(j)+"";
 

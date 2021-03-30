@@ -73,8 +73,6 @@ public class Main extends JFrame{
                     int width = DEFAULT_X + (commitBranch * LINE_WIDTH) - (LINE_WIDTH / 2);
                     int height = DEFAULT_Y + LINE_HEIGHT/2;
 
-                    g2.setColor(colorList.get(0));
-                    g2.fillOval(width - cCircle/2, height - cCircle/2, cCircle ,cCircle);
                 }else{
                     /** other line **/
                     int cntUpPoint = upCommitLine.replaceAll(" ","").length();
@@ -90,7 +88,7 @@ public class Main extends JFrame{
                         String pipe = upLine.charAt(j)+"";
 
                         if("|".equals(pipe)){
-                            g2.setColor(colorList.get(0));
+                            g2.setColor(colorList.get(j));
 
                             lin = new Line2D.Float(
                                     DEFAULT_X + ((j+1) * LINE_WIDTH) - (LINE_WIDTH / 2),
@@ -101,7 +99,7 @@ public class Main extends JFrame{
                             g2.draw(lin);
 
                         }else if("/".equals(pipe)){
-                            g2.setColor(colorList.get(0));
+                            g2.setColor(colorList.get(j));
 
                             lin = new Line2D.Float(
                                     DEFAULT_X + ((j+1) * LINE_WIDTH) - (LINE_WIDTH / 2),
@@ -112,7 +110,7 @@ public class Main extends JFrame{
                             g2.draw(lin);
 
                         }else if("\\".equals(pipe)){
-                            g2.setColor(colorList.get(0));
+                            g2.setColor(colorList.get(j));
 
                             lin = new Line2D.Float(
                                     DEFAULT_X + (j * LINE_WIDTH) - (LINE_WIDTH / 2),
@@ -125,6 +123,7 @@ public class Main extends JFrame{
                     }
                 }
 
+                g2.setColor(colorList.get(commitBranch-1));
                 g2.fillOval(DEFAULT_X + (commitBranch * LINE_WIDTH) - (LINE_WIDTH / 2) - cCircle/2
                         , DEFAULT_Y + (LINE_HEIGHT * cntHeight) - (LINE_HEIGHT / 2) - cCircle/2
                         , cCircle

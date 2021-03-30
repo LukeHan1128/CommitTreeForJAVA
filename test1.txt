@@ -1,0 +1,3608 @@
+*   commit 7349b8f785aba0637ffb400f01dd0d6b8c7ab155 (HEAD -> master, origin/master, origin/HEAD)
+|\  Merge: 9dcf98c ac87dc9
+| * commit ac87dc92564b039c849b186faf8df39bdfa620e7
+| | Author: Muaz Khan <muazkh@gmail.com>
+| *   commit cfd8c4bd5d7e7137d3e23c143551e4ec8b70a1cf
+| |\  Merge: 48e8706 73dc9fe
+| | * commit 73dc9fe7296684a35100a0f71af34daddf528f69
+| | | Author: visgotti <joevisca2@gmail.com>
+| * | commit 48e8706ee04bc482cecb82ec36c369744e47752a
+| |/  Author: Muaz Khan <muazkh@gmail.com>
+| * commit 78808b289d23017028bee201857a70a34f6582fa
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 47b02e8aa36a00ced3092110800ccd3a75fdd13a
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit cce84fec56320250cf1f8b4be657f7b14d2eb4ab
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit ffd49ad8fd12267213953a80a73c1a7b7a4cb87f
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 50c5dbe36e993c3ade1345d0bd80eaa9b13a3479
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit ac0d77865b84f328aad889e352494551c4e09af4
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 2032ce949bde30b43a3d2666e0f1e5afbf337f3d
+| | Author: Muaz Khan <muazkh@gmail.com>
+| *   commit 1368f60d0342296504d9eec60f1668e6d099fdb2
+| |\  Merge: 61fb1b7 725bae4
+| | * commit 725bae43630abd18d709b2a27d2786d2db20f35e
+| | | Author: André Moreira <andre.mcx1@gmail.com>
+| * | commit 61fb1b7bdaedbc01a7fc32eed08cbf3c6157a939
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| * | commit 04ca2a2254121beb8446df379a7cf0b19fcf1197
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| * | commit 03517b61e460e8f7973fa2fe21ef5f7cecadf223
+| |/  Author: Muaz Khan <muazkh@gmail.com>
+| * commit 54d0ae0b2e801458557be97100e084e332f65af4
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit bb043c02ce971bd0fc592c2c3165c127774034e2
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit fdaced3ab03a0c39c2c653e5a20fa7d912c278cb
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit f0c4e45962d97b087ebb5d5bb05992ae365cc45b
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 76309a2e50df4679c85a26f3f512beea612a28fb
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit f806dd2cb248470e9a1c6ca349286c06d900805a
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit a87842a93433e033327fac397bbce7b20b498255
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit e2f7d2a6c684d166be90267e7ad8dae5c30f8fd1
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit bef6a7aa3c3cb5084fbd8faa9e868e950ce284c0
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit d6953175e2c6c6e3cc5441af0975be5b3d31c63f
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 6b839dd51891518c85af3ccb03621529014c907b
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 93f2cb5820bef033e1f2d82ff4836b604e311d9f
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit af4fdb75d8a579950e2babdfde1d81fb0ca10ea1
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 9d9ff514d527bc7933e8b630f9432d320b8bf288
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit c32e6ee0b615bb6a0010573b551024df17d46c99
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 7af8b55f42b2d642203b1e5cb7889319374d08fa
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 22282624633f4a9353b5ab3cdae014fc2fdbbbb1
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit fb70be26d5e65a7952b7854930478310ff5321c5
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 0bf56f26624d135e1537d697161eb0a23b1398f8
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit d3b4462661cde38e7a1c4389ee70e5848e8b5ba8
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit c0a6c688cf7d3f28dfb2635302313c47cc761c38
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 61b3e17c53116678b0bc0e0b806c2fe8fbdbab09
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit b7853c53bca7cb24343f6b798a2caf18364d3d71
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit fc0f323bb68c85ade8c140f4b0f396d3e9a123c4
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 1c93db0869579cba7223b2dafadc23b26b037b55
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 31cf9213ad4028425bd6c5ecd513827240d96cba
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit ab9e391f02a19fddc00ac13147fb5d776d2938a4
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 00c95a50d7ca45df05338ff85a305e851056b0a0
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit c825de6ef1cb76735a1eb0ed56836b7fc63c16a2
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 8be47b524df66f0375d7395b843fecdf93242370
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 2d9e4695c907029140e4f468c5d261c799f4745b
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit f9e01ca6ce8d59fca963c32eac59e26d834261b3
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 4109ce460e3f709a907168944c982f6c9b66c71a
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit e5d0c4b58f2154e44090cd57f45cb91e186544a9
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 1c437a0735fca1918e1d425069bf3e538684832c
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit e2bf1bba49bedfb5a7065f9d621abf4a253d4b0a
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 25b0c086f6145d60c5d554d9cf8a132590e23a29
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit bc7cdf5b389402fec4cacc64f34ccb16c327326b
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit cd9198374e8db828b68437b58d56357fcf8d8a55
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 05b4f7bae3735bae47f8d9103537c84fc96db165
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 79e30a63e79d0448a583b9e44552d77796a76632
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 247a1b85072207da96910a02a15cc5b6ff4f8582
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit fb84b27a6b07bff5ac5e45a369a510055ecf2f25
+| | Author: Muaz Khan <muazkh@gmail.com>
+| * commit 73a7b0c5cbd26c2455cda5738957a0b2dc0d5aae
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Oct 20 11:45:05 2018 +0500
+| | 
+| |     Tinny fix
+| | 
+| * commit 4e0094cc205034dd0e2af28c75c9a65c6c0f965a
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Wed Oct 17 13:21:35 2018 +0500
+| | 
+| |     Fixed #653 demos/keep-rejoining.html
+| | 
+| * commit 5453a45288e392fd77b74ecc65f0780e2e6ccca1
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Mon Oct 15 14:56:08 2018 +0500
+| | 
+| |     Admin+Dashbaord pages updated.
+| | 
+| * commit e27696e1577abbd580225f07be2cc74e55a72c06
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sun Oct 14 13:53:21 2018 +0500
+| | 
+| |     Dashboard.html and /admin/ pages are updated.
+| | 
+| * commit ecd83a2b169fc3e9c32537067da4c917c3c16fb1
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Oct 12 16:15:48 2018 +0500
+| | 
+| |     Removed all "become-public-modertor". Redundant since v3.4.7
+| | 
+| * commit c6c5c5f000c086ab4f49a3bad57fc326d44a39c7
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Oct 12 13:51:45 2018 +0500
+| | 
+| |     Fixed #651
+| | 
+| * commit e64e1f7c813352b5ca9b74102ed38fe0e538ee57
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Thu Oct 11 14:50:54 2018 +0500
+| | 
+| |     Using adapter.js from NPM in all demos.
+| | 
+| * commit 0c16621f8f95739a0f7f14a42ad2d36ab388c00b
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Mon Oct 8 15:15:54 2018 +0500
+| | 
+| |     Added demo: "Scalable-Audio-Broadcast.html"
+| | 
+| * commit 15add6ee41b19ad0413d44bf046b32bd5b5eeb9c
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Mon Oct 8 12:37:41 2018 +0500
+| | 
+| |     Published to NPM:  rtcmulticonnection@3.4.8
+| | 
+| * commit 581ae7d829b17192421552945a18f7e99bb42807
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sun Oct 7 10:10:09 2018 +0500
+| | 
+| |     Moved Socket.io to a separate directory and NPM package
+| |     
+| |     https://github.com/muaz-khan/RTCMultiConnection-Server
+| |     
+| |     Now using NPM packages for:
+| |     1) Screen-Capturing.js and getScreenId.js
+| |     2) FileBufferReader.js
+| |     3) DetectRTC.js
+| |     4) RecordRTC
+| |     
+| |     More packages will be added later.
+| | 
+| * commit b74feca3ba68ebab8502f24191f4bdff6e8b5cf3
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Oct 6 17:51:46 2018 +0500
+| | 
+| |     Tiny fix.
+| | 
+| * commit 931479db5bf0d8dd19dc8653ed175b00af59d9a6
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Oct 6 12:28:05 2018 +0500
+| | 
+| |     Passing "socketMessageEvent" and "socketCustomEvent" to /admin/ page.
+| | 
+| * commit bb301bc71e17d05f202bcee1cdc3a110c2f23ee3
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Oct 6 11:53:35 2018 +0500
+| | 
+| |     HEROKU uses: please upgrade to latest commit.
+| |     
+| |     Now trying to reject all irrelevant requests. Nodejs server now requires
+| |     "userid" and "sessionid" both. So either modify your
+| |     "SocketConnection.js" to pass "sessionid" as well or upgrade to latest
+| |     commit.
+| | 
+| * commit 83591e2f902d4e7edf94bfe2cf0c36090673bdd7
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Oct 5 16:41:29 2018 +0500
+| | 
+| |     "Record-entire-conference" option added to "Video-Conferencing.html" demo
+| | 
+| * commit 78f2def9fc56d60d7b784ddda0d088d61f74eecf
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Oct 5 16:41:07 2018 +0500
+| | 
+| |     "Active-Users-List" option added to /admin/ page.
+| | 
+| * commit e538c1c5d2d8e87bc6c998eff5de862ef0259420
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Wed Oct 3 16:49:04 2018 +0500
+| | 
+| |     Fixed demos/video-and-screen-sharing.html via #630
+| | 
+| * commit 78f712d6025ac37aaf48ecb010d60734049daba8
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Tue Oct 2 15:34:24 2018 +0500
+| | 
+| |     node_scripts/Signaling-Server.js : ignore invalid requests for "joinARoom"
+| | 
+| * commit 7e35a011c305696fe0d932c2c0edd1dae0be04ad
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Tue Oct 2 14:55:29 2018 +0500
+| | 
+| |     New Release: RTCMultiConnection 3.4.7
+| |     
+| |     Closed #639, Fixed ##428, Fixed ##638
+| |     
+| |     For more info, please check: #639
+| | 
+| * commit 724ead7cbb589a772b8bb41abd22acff3f700a5d
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sun Sep 23 23:02:01 2018 +0500
+| | 
+| |     Added new demo: "video-and-screen-sharing.html"
+| |     
+| |     https://rtcmulticonnection.herokuapp.com/demos/video-and-screen-sharing.html
+| | 
+| * commit 01e6da252cd7f580c41139aad48c6da7cd4e4d9d
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Thu Sep 20 12:08:32 2018 +0500
+| | 
+| |     Fixed #632 Also updated camera-zoom.html
+| |   
+| *   commit 23665b8bd30a01c6c42d8436a0abe166c0574ba0
+| |\  Merge: 3132ba6 35dc0d9
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Thu Sep 20 11:38:29 2018 +0500
+| | | 
+| | |     Merge pull request #603 from tvandergeer/patch-1
+| | |     
+| | |     Fixed several issues in loading SSL key files from config
+| | | 
+| | * commit 35dc0d95f6d095fd8a95d0050869ec07cb4f3ab3
+| | | Author: Tom van der Geer <t.vandergeer@sping.nl>
+| | | Date:   Fri Jun 29 10:26:52 2018 +0200
+| | | 
+| | |     Fixed several issues in loading SSL key files from config
+| | | 
+| * | commit 3132ba6cdf61b146fd06277f9352485314c513e8
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Wed Sep 19 20:04:00 2018 +0500
+| | | 
+| | |     dashbaord.html, how-to-use.md, grunt-watch and readme.md
+| | | 
+| * | commit 58691d93c4fbe1a3ec52a8db6f59e45f43244aa2
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Sat Sep 15 21:35:43 2018 +0500
+| | | 
+| | |     Tinny updates in the "demos/dashboard.html" #628
+| | | 
+| * | commit 3e3224af6f3a00e8cbd94f7acbbf8ac1c32ea0a1
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Sat Sep 15 21:18:57 2018 +0500
+| | | 
+| | |     Added "User Full Names" to "demos/dashboard.html" via #628
+| | | 
+| * | commit af54d82600413834a2afc8b2f5b5ae9da2187c9c
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Sat Sep 15 15:40:49 2018 +0500
+| | | 
+| | |     Update issue templates
+| | | 
+| * | commit cdcab38a0aa09e96cdd5acfc5aa4d1bce499fa7e
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Sat Sep 15 14:52:43 2018 +0500
+| | | 
+| | |     Added new demo: "dashboard.html" for #628
+| | |     
+| | |     https://rtcmulticonnection.herokuapp.com/demos/dashboard.html
+| | | 
+| * | commit 50e868d2ab28326dd99181dcff8d08e372924826
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Sat Sep 15 10:55:29 2018 +0500
+| | | 
+| | |     demos/camera-zoom.html updated.
+| | | 
+| * | commit 4b8529384a46b31be1b22ecb8cd959f45a3f1c2b
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Sat Sep 15 10:48:10 2018 +0500
+| | | 
+| | |     New Demo: camera-zoom.html (i.e. zoom camera)
+| | | 
+| * | commit 17001a2775257215eaf2d278b8a0e2499c2fa5bd
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Thu Sep 13 23:34:49 2018 +0500
+| | | 
+| | |     v3 now supports "selectFirst" and "selectAll" same like v2
+| | |     
+| | |     "selectFirst" documentation:
+| | |     https://www.rtcmulticonnection.org/docs/streamEvents/#selectFirst
+| | |     
+| | |     "selectAll" documentation:
+| | |     https://www.rtcmulticonnection.org/docs/streamEvents/#selectAll
+| | |     
+| | |     connection.streamEvents.selectAll('remote').forEach(function(event) {
+| | |     var stream = event.stream;
+| | |     });
+| | |     
+| | |     connection.streamEvents.selectAll({
+| | |     userid: 'someone'
+| | |     }).forEach(function(event) {
+| | |     var stream = event.stream;
+| | |     });
+| | |     
+| | |     Check "streamEvents" documenation for more usage.
+| | | 
+| * | commit 046cd2a52ad97fbea9ab6eb7c59b17b4da8b6406
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Mon Sep 10 12:49:26 2018 +0500
+| | | 
+| | |     Updated "server.js"
+| | | 
+| * | commit ae83dcff72e9b3371eec64405143147e1552b69a
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Fri Sep 7 08:14:01 2018 +0500
+| | | 
+| | |     #622 DONE
+| | | 
+| * | commit d930a0bf0a60f5b70150dd6fb03a7977ae771a37
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Mon Sep 3 20:04:54 2018 +0500
+| | | 
+| | |     Added New Demo: "Call-By-UserName.html"
+| | | 
+| * | commit 09c88c1a2449f67ae2805d22db9715ae106dbf46
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Mon Sep 3 20:04:45 2018 +0500
+| | | 
+| | |     updated demo: "keep-rejoining.html"
+| | | 
+| * | commit 4b6f1ea350bf6dc3b4a52f06de00bf6c2000da0a
+| | | Author: Muaz Khan <muazkh@gmail.com>
+| | | Date:   Mon Sep 3 20:04:22 2018 +0500
+| | | 
+| | |     RMC3 minor updates
+| | |   
+| * |   commit a9a2e949ca90900952133c41899c23b13713a153
+| |\ \  Merge: c7faafa 425bc96
+| | | | Author: Muaz Khan <muazkh@gmail.com>
+| | | | Date:   Mon Sep 3 20:00:11 2018 +0500
+| | | | 
+| | | |     Merge pull request #623 from gvlekke/feature/implement-select-all-streams
+| | | |     
+| | | |     implement selectAll function that returns a array of streams.
+| | | | 
+| | * | commit 425bc96055caa2a8586a40d7b0061a330dd3ac8a
+| |/ /  Author: Glenn Vlekke <g.vlekke@sping.nl>
+| | |   Date:   Mon Sep 3 15:23:01 2018 +0200
+| | |   
+| | |       implement selectAll function that returns a array of streams.
+| | | 
+| * | commit c7faafaae0472d233e7cb4b298ea7f7ed90efa51
+| |/  Author: Muaz Khan <muazkh@gmail.com>
+| |   Date:   Sat Jul 28 09:55:19 2018 +0500
+| |   
+| |       Screen-Capturing.js & getRemoteStreams (updated)
+| | 
+| * commit ff7b1ec4b8f1999ea6422f1983b25dcaf60eea4a
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sun Jun 17 08:32:12 2018 +0500
+| | 
+| |     #596 vuejs video conferencing demo
+| |     
+| |     https://rtcmulticonnection.herokuapp.com/demos/vuejs-video-conferencing.html
+| | 
+| * commit 1997e7f2ad966d8cf4b006fda57448ecf3497706
+|/  Author: Muaz Khan <muazkh@gmail.com>
+|   Date:   Sun Jun 17 08:31:40 2018 +0500
+|   
+|       v2.2.2 readme
+| 
+* commit 9dcf98cdbc572ed3e2db7b136be869c488b667a7
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jun 11 13:30:37 2018 +0500
+| 
+|     #597 npm install rtcmulticonnection
+|     
+|     rtcmulticonnection-v3 is now moved to rtcmulticonnection
+| 
+* commit a102e7e4463c9e0c11b900df57e00370dcb4a55e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jun 9 12:56:38 2018 +0500
+| 
+|     travis tinny bug.
+| 
+* commit 157c9e544f74a49df9ae378c0ea4bf87bd0e1c0c
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jun 9 12:51:57 2018 +0500
+| 
+|     #428 also added support for MSEdge-Screen-Capturing
+|     
+|     Now you can set passwords using "connection.password".
+|     
+|     Now if initiator leaves, he can rejoin same room.
+| 
+* commit 45012ff15c23e263ec96dab843df96347f0c4110
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun May 20 17:22:40 2018 +0500
+| 
+|     tinny fix
+| 
+* commit a23907e8d9f1be5434b56bc7514e22750fa38b60
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun May 20 17:18:08 2018 +0500
+| 
+|     Now taking isUseHTTPs/ssl_key/ssl_cert from config.json
+| 
+* commit 0719078a6000d54260643f29ee81380cf71ce823
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri May 18 09:35:22 2018 +0500
+| 
+|     #583 Blocking all non-GET requests e.g. HTTP-POST etc.
+| 
+* commit fee4df271ed7452b784446af44a4f869ef3cb621
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed May 16 22:55:36 2018 +0500
+| 
+|     #580 checkPresence method finally works. (SSE)
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/SSEConnection.html
+| 
+* commit b9bf7ff9ee6b25b56a6cab43acfe1447e20b4ab9
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed May 16 18:13:22 2018 +0500
+| 
+|     #580 implemeneted checkPresence in the SSEConnection.js
+| 
+* commit b649a98464d97765b122b5959addf3ab58a4e5ae
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon May 14 18:11:45 2018 +0500
+| 
+|     Last v2.2.2. update. (fixing Edge/Safari/Firefox compatibility issues)
+|     
+|     Caution: v2.2.2 will be deprecated soon. All demos will be replaced with
+|     v3.
+| 
+* commit feffdbb9d9eabb02776740528a696f348e5c16f6
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu May 10 08:44:38 2018 +0500
+| 
+|     Fixed some important bugs
+|     
+|     Previous bugs:
+|     
+|     1) connection.join method wasn't waiting for local-media before joining
+|     remote user
+|     
+|     2) if someone joins offline-room and as soon as that room comes online,
+|     RMC3 wasn't waiting for local-media and trying to join that waiting
+|     participant without local media. This scenario resulted
+|     setLocalDescription failures.
+|     
+|     Above two scenarios applies to all three functions: open, join,
+|     openOrJOin
+|   
+*   commit e530b674205a0865161b5a5dbd65dec7c08b7c1c
+|\  Merge: 79f0e46 9c75042
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Tue May 8 23:42:12 2018 +0500
+| | 
+| |     Merge pull request #538 from thisdotvoid/patch-1
+| |     
+| |     fix incorrect server configuration
+| | 
+| * commit 9c750422556b41a8df51891dfd5bbd6980d74456
+| | Author: Mirza Brunjadze <brunjadzem@gmail.com>
+| | Date:   Tue Feb 20 18:56:56 2018 +0400
+| | 
+| |     fix incorrect server configuration
+| |     
+| |     autoRebootServerOnFailure option wasn't resolved correctly from config.json
+| | 
+* | commit 79f0e46801a9d40d5d997a9c653c185256994432
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Tue May 8 23:35:07 2018 +0500
+| | 
+| |     Fixed video-conferencing demo's echo issues
+| | 
+* | commit 251eee2582e8c67ab2f4b850bae9569178660217
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat May 5 18:24:52 2018 +0500
+| | 
+| |     IceServersHandler, Screen-Capturing.js and DetectRTC
+| | 
+* | commit a9ea060984929332279624bc9030772eecbd1600
+|/  Author: Muaz Khan <muazkh@gmail.com>
+|   Date:   Mon Apr 30 18:55:21 2018 +0500
+|   
+|       Fixed video-conferencing demo on iOS11/Safari ref #478
+|       
+|       https://rtcmulticonnection.herokuapp.com/demos/Video-Conferencing.html
+| 
+* commit 0fc0626136c96ade00d18bebb732bfa8b9858c0b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Dec 16 15:57:49 2017 +0500
+| 
+|     #512 please try demos/autoCreateMediaElement.html
+|     
+|     // disable default videos to fix play/pause bugs
+|     connection.autoCreateMediaElement = false;
+| 
+* commit e61936b835c1a3a108547340b43c73fa788ec1a1
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Dec 13 21:23:25 2017 +0500
+| 
+|     #483 displaying error for mic issues on Firefox
+| 
+* commit 55168d0e6029f9512e5e3fe80693d217e31bdeb4
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Dec 13 21:06:51 2017 +0500
+| 
+|     Fixed screen sharing issues in demos/MultiRTC/
+| 
+* commit fa45dd71b6c50d65762019bac12e8ba4f4a455d3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Dec 2 16:10:15 2017 +0500
+| 
+|     Fixed audio-conferencing bug.
+| 
+* commit bb55a0506771116d00bbb806048126fccc98bc69
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Nov 19 19:13:08 2017 +0500
+| 
+|     Updated to latest DetectRTC.js
+| 
+* commit 12eb31eabed163883817b8426097e3f9e7a54f3f
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Nov 19 18:35:21 2017 +0500
+| 
+|     Added Safari 11 support.
+| 
+* commit 96669af60457652faa94ed4b15671919df6c96a2
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Nov 19 10:25:35 2017 +0500
+| 
+|     Updated dev/CodecsHandler.js and demos/getStats.html
+|   
+*   commit f6913caa61ff25c7951b7761d1e4a4086938aa95
+|\  Merge: ee81d05 d81b9ff
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 18 13:47:42 2017 +0500
+| | 
+| |     Merge pull request #494 from adrianmcli/master
+| |     
+| |     Add support for ES6 imports (module resolution)
+| | 
+| * commit d81b9ff8c2b9336896406c219ef25df30b4a4c95
+|/  Author: Adrian Li <li.adrianmc@gmail.com>
+|   Date:   Sat Nov 18 00:34:10 2017 -0800
+|   
+|       Update the main entry in package.json
+| 
+* commit ee81d0538936468cee85bf06fcd6cac402cb206a
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Nov 15 18:57:39 2017 +0500
+| 
+|     Added support for SSL using "node server.js --ssl"
+| 
+* commit c95aeb93489f330bc5ce91617d97fd3d8f473d72
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Nov 11 12:19:14 2017 +0500
+| 
+|     Signaling-Server.js now supports "external socket.io" obejcts
+|     
+|     You can use your existing socket.io connections and reuse them with
+|     RTCMultiConnection-v3.
+|     
+|     Here is your nodejs code:
+|     require('./Signaling-Server.js')(socketio_object);
+| 
+* commit eb8f51a1ae2755e162aa82ed18dcc054a83571ec
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Sep 23 17:12:12 2017 +0500
+| 
+|     Fixed #467
+| 
+* commit 110d3fc6aa12edeb9e645ddda9559072fb5aa0ff
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Sep 22 10:46:15 2017 +0500
+| 
+|     Fixed #465
+|   
+*   commit 53103047af63dba7b3b8206948f4557f61305816
+|\  Merge: 4868621 34ae0a5
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Sep 22 10:44:16 2017 +0500
+| | 
+| |     Merge pull request #464 from dnish/master
+| |     
+| |     - Fix iOS 11 issue
+| | 
+| * commit 34ae0a588d303bf73b0882cfd8d823738099de39
+| | Author: dnish <harbecke.dennis@gmail.com>
+| | Date:   Thu Sep 21 17:55:55 2017 +0200
+| | 
+| |     - Fixed ES6 issue
+| | 
+| * commit 94a7fac44f9b0b8fc345300db469d101d7c4daac
+|/  Author: dnish <harbecke.dennis@gmail.com>
+|   Date:   Thu Sep 21 17:48:50 2017 +0200
+|   
+|       - Fix iOS 11 issue
+| 
+* commit 4868621c94d7a6f2bd05b015339adc42c85fb641
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Aug 31 11:32:57 2017 +0500
+| 
+|     Screen-Capturing.js, Signaling-Server.js, Socket-Connection.js, FileBufferReader.js, IceServersHandler.js, getHTMLMediaElement.js updated.
+| 
+* commit 879b1591c0c9d18f44d6bba5d84f5d684b3c2571
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Aug 26 11:17:51 2017 +0500
+| 
+|     Updated to latest getStats.js, added "dev/enableV2Api.js"
+| 
+* commit 32823526d575af53de9ef37012e3a8065cf5c152
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Aug 24 18:12:00 2017 +0500
+| 
+|     Fixed #453 (using a hack: not a solution though)
+| 
+* commit e4600c3173a8ab87d4fd223d121bd77bbcdf92d1
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Aug 23 22:56:53 2017 +0500
+| 
+|     SSEConnection demo fixed.
+| 
+* commit 0cb7a27d000936aff27013f1fda514fdd9d4caaf
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Aug 16 10:35:57 2017 +0500
+| 
+|     Added "getStats" demo: https://rtcmulticonnection.herokuapp.com/demos/getStats.html
+| 
+* commit 3e19842da6b93dcd22b1c3167242497e928c6fca
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Aug 13 10:54:06 2017 +0500
+| 
+|     Fixed typo in dev/RTCPeerConnection.js
+| 
+* commit c5bff40ab1198083d988469b0597f090fcb2542d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Aug 12 10:12:47 2017 +0500
+| 
+|     v3 updated.
+| 
+* commit 6f83f539dd6b6c5803b6dd67da0384952057ae2d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Aug 6 10:41:54 2017 +0500
+| 
+|     Adapterjs is now optional. All demos now includes version_number.
+| 
+* commit 2baf37be14e7484babe5eefdf19df4bb3598b564
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Aug 2 10:40:04 2017 +0500
+| 
+|     v3 now supports/includes "adapter.js". Fixed #436
+|     
+|     Edge-to-Edge now works (credit: adapter.js!!)
+|     Removed PluginRTC. So no more IE/OldSafari support.
+|     
+|     Workdaround iiiffff connection.addStream fails:
+|     stream.getTracks().forEach(function(track) {
+|     connnection.peers['userid'].peer.addTrack(track, stream);
+|     });
+|     connection.renegotiate();
+| 
+* commit df5fcbdcb93dd07ebc021528b231310634f82272
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jul 30 09:45:38 2017 +0500
+| 
+|     RTCMultiConnection-v2.2.2 as well as all v2 demos updated.
+| 
+* commit d7bc2df602f4ac41ffd4b3e6efcf674e5076b5f3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Jul 28 08:31:00 2017 +0500
+| 
+|     Fixed Pre-recorded-Media-Streaming.html crash/awsnap.
+| 
+* commit 298fcc3508f49bbc09acf4cc04535f5ad1c0e4b2
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Apr 29 12:10:31 2017 +0500
+| 
+|     tinny changes (merged DetectRTC)
+|   
+*   commit 416980cd7433a3bba94aa1f2977415f0f4042e4c
+|\  Merge: 9eb0b60 87fdc7e
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Apr 29 12:09:50 2017 +0500
+| | 
+| |     Merge pull request #376 from vrajroham/patch-1
+| |     
+| |     Invalid source link for "share screen" (V3)
+| | 
+| * commit 87fdc7e736b1a9c93dce36f1c5cc1fb9b0f2df6b
+|/  Author: Vaibhavraj Roham <vrajroham@users.noreply.github.com>
+|   Date:   Thu Mar 30 13:22:48 2017 +0530
+|   
+|       Invalid source link for "share scree" (V3)
+|       
+|       Source link typo. (Screen sharing V3 Source).
+| 
+* commit 9eb0b60797aa02c587db52ce2304cc6dd814c08e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Mar 24 07:59:40 2017 +0500
+| 
+|     Tinny updates
+| 
+* commit 14049335d65a59fc531dad2a55e55e7f8abe2e4c
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Mar 21 17:42:33 2017 +0500
+| 
+|     Tinny readme.md fixes
+| 
+* commit 75f9a0ce35f2e4d4997044549bfb5ea696da4bb0
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Mar 21 16:40:19 2017 +0500
+| 
+|     minor updates
+| 
+* commit 862165b0a90139b6573902ea2b41053e16f5502c
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Mar 20 20:10:48 2017 +0500
+| 
+|     Added new demo: "keep-rejoining.html"
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/keep-rejoining.html
+| 
+* commit 7e0a0143bacea272364ff6f99e1afc85f29a3cb3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Mar 20 17:55:05 2017 +0500
+| 
+|     demos/switch-cameras.html fixed for Android.
+|   
+*   commit 4c2253d7b4f3aec03df6fc77c04ad86ab598ceb6
+|\  Merge: 102ea5f 42e4f89
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sun Mar 19 16:10:15 2017 +0500
+| | 
+| |     Merge pull request #365 from swhgoon/patch-1
+| |     
+| |     simplify code @ `socket.on('check-presence'`
+| | 
+| * commit 42e4f89be147b8b26d588ea0ab011a592aef3bb0
+| | Author: SwhGo_oN <swhgoon@users.noreply.github.com>
+| | Date:   Sun Mar 19 18:22:59 2017 +0800
+| | 
+| |     Update Signaling-Server.js
+| | 
+| * commit 4c1fa11377cc1c844327c8e0b134ee4c5f0e7d57
+|/  Author: SwhGo_oN <swhgoon@users.noreply.github.com>
+|   Date:   Sun Mar 19 18:18:11 2017 +0800
+|   
+|       simplify code @ `socket.on(`check-presence``
+| 
+* commit 102ea5fa6667b1e81c55081e5e721dbf9707bbfa
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Mar 13 12:47:47 2017 +0500
+| 
+|     Added SSE (Server Sent Events) signaling demo (via PHP)
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/SSEConnection.html
+| 
+* commit 87629f93c2aa8fffa33e5097536acef7e3b25f92 (tag: 3.4.4)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Mar 11 12:15:41 2017 +0500
+| 
+|     Added rtcmulticonnection-v3@3.4.4
+| 
+* commit 7aef244229b3e5820dbdc9162af0f5c1d8b332c5
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Mar 11 12:14:35 2017 +0500
+| 
+|     Updated to latest DetectRTC
+| 
+* commit 9fd4c2a132b98542436a123e67cd639cc961307a
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Mar 11 12:13:41 2017 +0500
+| 
+|     Fixed #352
+| 
+* commit c3d8dd321359fd79ea541671c74e182f08403bad
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Mar 8 14:14:16 2017 +0500
+| 
+|     Fixed #347 Updated DetectRTC. Fixed pre-recorded media streaming demo.
+| 
+* commit 56eddfc1d1bf8d908eaf21bebd69895b8cf267e3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Mar 7 16:41:58 2017 +0500
+| 
+|     (Version 3) Fixed #346 herokuapp-demo fixed as well.
+|   
+*   commit 3d91bd6828dda463ea8abe46c19289545d4e69f8
+|\  Merge: 4b22286 f447cee
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Mon Mar 6 15:34:35 2017 +0500
+| | 
+| |     Merge pull request #344 from vrajroham/patch-1
+| |     
+| |     Typo at line 45
+| | 
+| * commit f447ceed64dec09963bde9698e2d95f873351ee5
+|/  Author: Vaibhavraj Roham <vrajroham@users.noreply.github.com>
+|   Date:   Mon Mar 6 14:20:19 2017 +0530
+|   
+|       Typo at line 45
+|       
+|       Typo
+|       
+|           "socketURL": "http:s//yourdomain.com:9001/",
+|       
+|       to
+|       
+|           "socketURL": "https://yourdomain.com:9001/",
+| 
+* commit 4b222869fe3c755eeb72330fc87176f73e258cb8
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Mar 3 16:32:02 2017 +0500
+| 
+|     Added "Audio-Video-Screen" demo. Removed redundant stuff from "IceServersHandler.js". Fixed "server.js" to work on Windows.
+| 
+* commit ed6a144af688ebd5744a81095787e0b9351a313d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Feb 22 16:00:43 2017 +0500
+| 
+|     "beforeAddingStream" now returns "peer" object as 2nd parameter.
+| 
+* commit caf7a614044c60e029153b89ee1ae950ba77b64d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Feb 22 15:55:59 2017 +0500
+| 
+|     added "websocket demo"
+| 
+* commit 287799aa8e031ba526f425efb0b4401bc58385e5
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Feb 11 20:27:21 2017 +0500
+| 
+|     #331 re-fixed the multi-cameras-streaming issue.
+| 
+* commit 49a0680d1c6af95002a147570c03289d08c763a5
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Feb 11 13:51:42 2017 +0500
+| 
+|     Fixed #331 Updated https://www.webrtc-experiment.com/RTCMultiConnection/Broadcast-Multiple-Cameras.html
+| 
+* commit 28efce6301d586724abf6b3f2cf14289ce0ac22b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Feb 8 22:08:14 2017 +0500
+| 
+|     admin-guest demo socket.io link fixed.
+| 
+* commit fb2e483e871c32d423d9fa859211c3800f8b506b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jan 25 16:55:16 2017 +0500
+| 
+|     Removed SimpleSocketConnection.js
+| 
+* commit 6dd5f2759f29402750d4200e1fb6b271d91e9a3e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jan 25 16:52:39 2017 +0500
+| 
+|     tinny changes.
+| 
+* commit 584585e761cad09844086d27f81aedf89e56857a
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jan 23 13:07:50 2017 +0500
+| 
+|     Tinny updates.
+| 
+* commit c8b6b85ec45605ccf5749e54ce6564554fbe7ad1
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jan 21 20:15:20 2017 +0500
+| 
+|     Tinny updates.
+|   
+*   commit 43de9d4dd1e8099d1fb79d5477d95ec6db0ec565
+|\  Merge: 3138852 7324352
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Thu Jan 5 15:00:49 2017 +0500
+| | 
+| |     Merge pull request #312 from iakashpaul/patch-1
+| |     
+| |     Typo in 'Or simply override in your HTML code:'
+| | 
+| * commit 73243527cc383a4ce731f0476875fa27bc74aec9
+|/  Author: Akash Paul <iakashpaul@gmail.com>
+|   Date:   Thu Jan 5 08:43:01 2017 +0530
+|   
+|       Typo in 'Or simply override in your HTML code:'
+| 
+* commit 3138852d2889286c1a69edc9054e7fe29210248e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jan 2 23:18:03 2017 +0500
+| 
+|     #310 keeping-session-opened even if moderator leaves (Disconnect+Rejoin.html)
+|     
+|     connection.peers.backup is renamed as “connection.peersBackup”. (used
+|     internally)
+|     
+|     Skipping duplicate “onstream” events.
+|     
+|     Improved TranlsationHandler.js. Now it works on any domain and any
+|     site. The “connection.googKey” is now open & free!
+|     
+|     #310 It currently works only for 2-3 levels. It is a known bug. It
+|     works if top moderator leaves, and if next moderator leaves. But
+|     doesn’t works for upcoming (3rd or 4th) moderators.
+| 
+* commit 8d58721a17ebb2d415902d7ca30afe1206791920
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Dec 30 18:44:35 2016 +0500
+| 
+|     TranslationHandler.js
+| 
+* commit 60c1861a8f950c1d1008355afccad6eda9293e57
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Nov 30 17:19:10 2016 +0500
+| 
+|     Fixed #293 Now passing extra-data over onstreamended and onleave
+| 
+* commit 30068fda75b728693847bcc1627bd03ae9926fe1 (tag: 3.4.3)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Nov 25 23:41:56 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.4.3
+| 
+* commit caa634879b16f5da80bc715a20ee12a594b1fd70
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Nov 22 17:23:17 2016 +0500
+| 
+|     Switch-Cameras and File-Sharing demos updated.
+| 
+* commit 9191d3c6bb028e8a674ef97495b970428ebc0eb2
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Nov 16 19:31:53 2016 +0500
+| 
+|     Minor changes.
+| 
+* commit 2b8dc6dc943f4cd2e66e9047ec797bc104d0f42d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Nov 12 11:07:16 2016 +0500
+| 
+|     Updated DetectRTC.js
+| 
+* commit b856c9cabacfccb1d51a67257d4122fb693fefb3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Nov 7 20:01:21 2016 +0500
+| 
+|     Added support for "Screen Capturing on Android"
+| 
+* commit 67bb09a5bed9e72209f8bc868a53828419b5302e (tag: 3.4.2)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Nov 5 11:06:22 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.4.2
+|     
+|     Now heroku URL also uses latest socket.io.js.
+| 
+* commit c6071bd06bb528ac68d4ed82e4105b3a0c489ffe
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Nov 4 14:21:31 2016 +0500
+| 
+|     Added "onRoomFull" event as well as "One-to-One" video chat demo. Fixed #275
+| 
+* commit b023ff235aa571a8686318c6cc413a64032c8f74
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Nov 2 15:34:53 2016 +0500
+| 
+|     Updated to use latest socket.io and DetectRTC. #277
+|     
+|     // to test on LAN
+|     connection.iceServers = [];
+|     
+|     https://rtcmulticonnection.herokuapp.com is NOT using latest updates
+|     yet (out of socket.io incompatibility). All (heroic link) users have to
+|     use (upgrade to) /socket.io/socket.io.js instead of using
+|     CDN.WebRTC-Experiment.com/socket.io.js
+| 
+* commit 1caa3abd4f3b1a0341a40b748f74a57235962836
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Oct 30 22:01:13 2016 +0500
+| 
+|     Updated "MultiPeersHandler.js".
+| 
+* commit 73d13a5538d4fff9a19b60e8f259804b2ea3e887
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Oct 30 14:07:55 2016 +0500
+| 
+|     Added "connection.rtcpMuxPolicy" and "connection.iceTransportPolicy"
+| 
+* commit 6ae96237b9cb5163b005e3c03f3092da9a225744
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Oct 29 21:43:12 2016 +0500
+| 
+|     Added new TURN server.
+| 
+* commit 08516a92ff955d335ed7f28a534ab0136f1ffab4
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 25 18:02:28 2016 +0500
+| 
+|     ReadMe.md tinny updates.
+| 
+* commit 246cd50b365fff8da15fd6204fefb78830b96848
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 25 18:00:29 2016 +0500
+| 
+|     Updating cordova-apps links: http://webrtcweb.com:9001/cordova-apps/
+| 
+* commit 15dd5315c6acb373d825f022f1342e017bb98c5d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Oct 24 12:22:15 2016 +0500
+| 
+|     Fixed #269
+| 
+* commit 604a3171debc2efb2c16f0223e4114413d3c752b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Oct 24 10:08:48 2016 +0500
+| 
+|     Including "version" in the distributed file: alert( connection.version );
+| 
+* commit 9a8fbb5d21da3fc7cfe10174c1f0cee43242ceb5
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Oct 22 10:08:20 2016 +0500
+| 
+|     Bug fixed (for data-only connections)
+| 
+* commit abf35455a11b366c3af1954eb46c70de9b5bb94d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Oct 22 10:00:36 2016 +0500
+| 
+|     Renamed "dist/rmc3.js" to "dist/RTCMultiConnection.js"
+|     
+|     RMC3 is already used by someone else. That’s why using a valid file
+|     name.
+| 
+* commit 28f0f7488a648fe93abd4d5badd622c19dcd952d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Oct 21 22:58:54 2016 +0500
+| 
+|     Mesh-model is now handled on Signaling-Server.js
+|     
+|     Server gives list of all participants as soon as you join a room.
+|     
+|     Added “autoRebootServerOnFailure=true” in the “config.json”. Which
+|     keeps server running all the time (auto reboots on failures)
+| 
+* commit 2afabac35fdf3ddfe8e6ad51be06128cf4a06446 (tag: 3.4.1)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Oct 19 17:43:59 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.4.1 Fixed #263
+|     
+|     https://github.com/muaz-khan/FileBufferReader/releases/tag/2.0.3
+| 
+* commit e6117cbeb998141f655e63e661f3fba4e4a6a2b9
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 18 22:24:11 2016 +0500
+| 
+|     Fixed Gruntfile.js "clean"
+| 
+* commit 1b1f7c2447e8ebc1be68b266d9494b1a76ca7e2c
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 18 22:22:25 2016 +0500
+| 
+|     Removed console-error-logs from https://github.com/muaz-khan/RTCMultiConnection/commit/859f468820120e7231f6ac6c22e3beaf33859f62
+| 
+* commit 859f468820120e7231f6ac6c22e3beaf33859f62
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 18 22:20:24 2016 +0500
+| 
+|     Merged & Fixed #262 via @KhVictor
+|     
+|     Removed RTCMultiConnection.js and RTCMultiConnection.min.js from
+|     root-directory. Use /dist/rmc3.min.js instead.
+| 
+* commit ca9325564c59253ca8c31c9b8b468ced7c3f3906 (tag: 3.4.0)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 18 19:29:28 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.4.0 FileBufferReader is moved to: https://github.com/muaz-khan/FileBufferReader
+|   
+*   commit 22bd19790cea192b3eb1d2d4b4b36bafffbb1859
+|\  Merge: 2d07a60 2248d12
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Tue Oct 18 17:39:55 2016 +0500
+| | 
+| |     Merge pull request #260 from KhVictor/patch-1
+| |     
+| |     Update Signaling-Server.js
+| | 
+| * commit 2248d128951a84d5a6bfe27c293d4c119ba39b72
+| | Author: KhVictor <victor@9sharp.com>
+| | Date:   Tue Oct 18 08:31:39 2016 -0400
+| | 
+| |     Update Signaling-Server.js
+| | 
+| * commit 7744a8892fb6e97a80cebbc82dec71762e6a5b43
+|/  Author: KhVictor <victor@9sharp.com>
+|   Date:   Tue Oct 18 08:02:33 2016 -0400
+|   
+|       Update Signaling-Server.js
+|       
+|       Hello! on line 163 - do you mean listOfUsers[socket.userid].socket.id == socket.id ??
+| 
+* commit 2d07a600f258246bf2423c8ef6091b57753a83b5 (tag: 3.3.9)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Oct 8 11:57:45 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.3.9 Fixed #251
+| 
+* commit fd7d1864d540e1b8f6ece2d05c44fec13ddf1bd8
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Sep 14 17:56:04 2016 +0500
+| 
+|     Fixed "onstreamended" issues. Fixed socket-reconnect issues.
+| 
+* commit 966573a34a7ba33f6e70305df05bb8718e1da575
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Sep 4 08:08:14 2016 +0500
+| 
+|     Switched to latest DetectRTC.js
+|   
+*   commit d00d7fc0ee87c18235c59aa8c421164b4bc41c1c
+|\  Merge: ed0a400 c5c1b11
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Sep 3 18:27:21 2016 +0500
+| | 
+| |     Merge pull request #229 from emilio93/master
+| |     
+| |     add changes from ed0a400(issue #227 fix) to API Reference
+| | 
+| * commit c5c1b11b3949057289327d131e80a43f1c0d2eef
+| | Author: Emilio Rojas <emilio93@gmail.com>
+| | Date:   Sat Sep 3 03:37:24 2016 -0600
+| | 
+| |     add changes from ed0a400(issue #227 fix) to API Reference
+| | 
+* | commit ed0a400b7c3831e928ad387d01daa4b61176980d
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Thu Sep 1 16:28:49 2016 +0500
+| | 
+| |     Fixed #227
+| | 
+* | commit fd8de40cc3ac7d066b81766772e40b9e950491b5
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sun Aug 21 19:28:38 2016 +0500
+| | 
+| |     #222 maybe fixed now.
+| |     
+| |     // plz set:
+| |     connection.socketCustomParameters = '&extra=' +
+| |     JSON.stringify(connection.extra);
+| | 
+* | commit 5dc34f9acda25389ff7e47dbaad82387f746f41f
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Wed Aug 17 13:50:42 2016 +0500
+| | 
+| |     Seems fixed #212
+| | 
+* | commit 69b6a7e2b42a838046ef39083ced9895be7feeb5 (tag: 3.3.8)
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Aug 12 10:25:03 2016 +0500
+| | 
+| |     Added rtcmulticonnection-v3@3.3.8
+| |     
+| |     Scalable-Broadcast demo now displays “number-of-broadcast-viewers”
+| | 
+* | commit d4717b08ca101290c7232d0397051b517ca09b5a
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Wed Aug 10 20:06:50 2016 +0500
+| | 
+| |     Now http://www.rtcmulticonnection.org/docs/ has v3 APIs a well.
+| | 
+* | commit f98323458f6021aaeee5f53098dcd6a400d6ccf3
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Wed Aug 10 20:04:21 2016 +0500
+| | 
+| |     Fixed #206 Now supporting connection.socket.emit('get-remote-user-extra-data', remoteUserId, callback);
+| | 
+* | commit bff3e4d6655f25d263139c13c60c91d2c0868c6d
+|/  Author: Muaz Khan <muazkh@gmail.com>
+|   Date:   Sat Aug 6 19:52:03 2016 +0500
+|   
+|       mp3-live-streaming demo updated.
+| 
+* commit aad9bbf31854150987e10ece655834f4ea2ee2fd
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jul 31 11:56:23 2016 +0500
+| 
+|     readme.md
+| 
+* commit 978d0a584174be6e8eda05090c1c8d814b4c72f6
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jul 24 13:19:13 2016 +0500
+| 
+|     Fixed #201
+| 
+* commit 82207b9bc2d911cf064df2f2c4d5e5dbb7494c95
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jul 16 11:05:25 2016 +0500
+| 
+|     A little docs updates.
+|     
+|     https://github.com/muaz-khan/RTCMultiConnection/tree/master/docs/getting
+|     -started.md
+| 
+* commit f8334ae4c01b9bc6df02dee46492d7772d1ce121
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jul 16 09:07:40 2016 +0500
+| 
+|     Added demo: "Pre-recorded media streaming (webm/mp3 live streaming)"
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/Pre-recorded-Media-Stream
+|     ing.html
+| 
+* commit 2d4c38ac3217927d09cf0138809ba3b24dd22214
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Jul 5 04:48:49 2016 +0500
+| 
+|     Added "audio-conferencing" iOS/Android (cordova) app. Fixed #198
+|     
+|     http://dl.webrtc-experiment.com/cordova-apps/audio-conferencing
+| 
+* commit d487457d125bc1d85b50bee2b9382b2802c4d15b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jul 3 16:29:19 2016 +0500
+| 
+|     #132 maybe fixed?
+| 
+* commit 1ce3d16808074fa172a62f8566127cbd0898d33c
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Jul 1 23:19:43 2016 +0500
+| 
+|     Added Cordova Demos Link: https://github.com/muaz-khan/RTCMultiConnection/blob/master/docs/ios-android.md#cordova-demos
+|   
+*   commit 7924b88f34d8df00c4e36faf271fbbf3605e5101
+|\  Merge: 0dda36b 1cd098b
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Thu Jun 30 23:33:53 2016 +0500
+| | 
+| |     Merge pull request #193 from dansandland/master
+| |     
+| |     Fix "extra" reference within FirebaseConnection/PubNubConnection.js
+| | 
+| * commit 1cd098b728f0cf840f86e571aee27656ee6c0e0e
+|/  Author: Dan Sandland <dsandl20@gmail.com>
+|   Date:   Wed Jun 29 17:59:34 2016 -0700
+|   
+|       Fix message extra reference within FirebaseConnection and PubNubConnection
+| 
+* commit 0dda36b5b94d729098025cfe8b63ee67c16fc326 (tag: 3.3.7)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jun 25 21:36:54 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.3.7
+| 
+* commit fe3958b0bc317a26a1c3c209233b8a97b530373c
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jun 5 20:31:10 2016 +0500
+| 
+|     Updated doc to explain how to record all videos at once (in single file)
+|     
+|     Now you can record entire conference: all audios+all videos +
+|     everything!
+| 
+* commit 8087e76be20dcd3b965ca171e80a0edaeaf274fe (tag: 3.3.6)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jun 5 20:20:53 2016 +0500
+| 
+|     Released rtcmulticonnection-v3@3.3.6
+|     
+|     Disabled {useDefaultDevices:true}. You can always pass
+|     {useDefaultDevices:false} to let v3 select last-available-devices.
+| 
+* commit b64547ae7d46d38aac648e9ae815f4f8c778a930
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jun 5 12:36:09 2016 +0500
+| 
+|     Updated all-demos to share room-id via/through URL
+| 
+* commit ebe65cbd4497992b940a74550e52973277292a0a
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jun 4 20:49:56 2016 +0500
+| 
+|     Added "docs/tips-tricks.md"
+| 
+* commit a04b4265445679e8160bafcdbfcc9e4c650b0edf
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue May 31 11:36:14 2016 +0500
+| 
+|     Separating API Documentation in the "docs" directory.
+|     
+|     Fixed #159
+|     #162 Now you can stop sending files using “connection.fbr=null”.
+| 
+* commit 3608f0b6c61bf94c4017556b79de5b59a3868dd4
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu May 26 22:19:01 2016 +0500
+| 
+|     #163 Now forcing getScreenId.js in the HTML-demos pages.
+|     
+|     RTCMultiConnection-v3 is using Screen-Capturing.js by default. Which
+|     means that v3 assumes that you have your own chrome extension for your
+|     own domain.
+| 
+* commit d127a39d634742f1a042584d7de60be504635dd7 (tag: 3.3.5)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun May 15 09:22:21 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.3.5
+|     
+|     #151 added SignalRConnection.js, WebSyncConnection.js and
+|     XHRConnection.js Also fixed audio+screen capturing bugs.
+| 
+* commit 940598f5c36375d1210fc19dab8b1d2cea70f971
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue May 3 13:13:31 2016 +0500
+| 
+|     Updated OneWay-Screen and TwoWay audio demo.
+| 
+* commit d87693ab0783f7d0e8b47d8e0fa355b5b360e3b1 (tag: 3.3.4)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun May 1 20:26:23 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.3.4
+|     
+|     1) Fixed Signaling-Server.js for backward “checkPresence” compatibility.
+|     2) Added new demo: Capture & Share screen from any HTTPs domain:
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/Cross-Domain-Screen-Captu
+|     ring.html
+|     
+|     So you don’t need to deploy chrome extension yourself. Simply use
+|     getScreenId.js as you can see in the above demo.
+|     
+|     3) Fixed mute/unmute on cordova/iOS
+|     
+|     4) Now using our own TURN-servers. Now you will get better results!!!
+| 
+* commit 3c1f6bdea335e639cfaa1cee5ba1744bb457a652 (tag: 3.3.3)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Apr 26 10:26:10 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.3.3 Fixed #140
+|     
+|     Demo: https://rtcmulticonnection.herokuapp.com/demos/StreamHasData.html
+| 
+* commit 875950a234710cc3a31461dc7a98e27daa9505cf (tag: 3.3.2)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Apr 17 23:01:11 2016 +0500
+| 
+|     rtcmulticonnection-v3@3.3.2 may fix #131
+| 
+* commit 0b808c383b8bb5ddcc0b26dea68b2c595c665e61
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Apr 17 18:27:30 2016 +0500
+| 
+|     Recording is disabled in the Scalable-Broadcast demos.
+|     
+|     You can re-enable by setting “enableRecordings=true” in the HTML.
+| 
+* commit bd304f51edb1d2599b96eb04dd7c78e7149fbcfe
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Apr 16 21:35:43 2016 +0500
+| 
+|     Added Scalable-Screen-Broadcast demo
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/Scalable-Screen-Broadcast
+|     .html
+| 
+* commit e227d482c03b982f4e0741255c583230d35ee818 (tag: 3.3.0)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Apr 16 12:00:20 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.3.0 Added admin/guest demo in v3
+|     
+|     Fixed #129 and https://github.com/muaz-khan/WebRTC-Experiment/issues/417
+| 
+* commit b906e2f0d824661ddd02c0e387c77beb1a8471cc (tag: 3.2.99)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Apr 10 17:44:03 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.99 Fixed #121
+| 
+* commit f1a01d0b6196d9edf1f65805b3ffbc08a8fbc313 (tag: 3.2.98)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Mar 31 18:33:35 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.98 Fixed "connection.closeSocket" and improved renegotiation.
+|     
+|     New demo:
+|     https://rtcmulticonnection.herokuapp.com/demos/change-resolutions.html
+|     
+|     Ref #111 and #110
+| 
+* commit 46cf991d560a7104759d9fefb35f6ed783dd802a (tag: 3.2.97)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Mar 30 12:38:04 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.97 Removed getScreenId.js
+|     
+|     Now supporting audio+tab.
+| 
+* commit e6cb17f1451e4475c1856dc1c7a862b0475daeb1
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Mar 29 22:04:55 2016 +0500
+| 
+|     Merged and closed #108 va @paul-em
+| 
+* commit 080d63bbd6ca063f54603cf9d4c0ffa90b18d2ba
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Mar 29 16:07:01 2016 +0500
+| 
+|     Minor updates.
+| 
+* commit 61340e375b52f9272ba98d580abaa6b3d0d7810d (tag: 3.2.96)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Mar 23 19:29:55 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.96 Keeping data channels opened on renegotiations.
+| 
+* commit 5f8c2e6e7229ffc059c0910d880e8f4639e56c4a
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Mar 17 16:26:17 2016 +0500
+| 
+|     Minor updates in all demos. Added getVideoTracks/getAudioTracks hack.
+| 
+* commit 689d6113fb8a376a98bc8ba812baec7b03b340eb (tag: 3.2.95)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Mar 16 11:35:33 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.95 Fixed Plugin.EveryWhere.js
+|     
+|     Merged & closed #104 Fixed #103 Removed “Object.observe()”
+| 
+* commit cab5cebd4c3993a2cad8e0815275e0fa49f456d9 (tag: 3.2.94)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Mar 14 17:15:47 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.94
+|     
+|     Added closeEntireSession and onUserIdAlreadyTaken.
+| 
+* commit 22f0577ab5b357068b6b98b98fc2a5e64ef3476b (tag: 3.2.93)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Mar 2 15:03:14 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.93
+|     
+|     v3.2.93 now supports cordova based ios/android apps; as well as it is
+|     now compatible with latest socket.io versions.
+| 
+* commit b3adb38a08ffb58cd4f7e0dffb073d5a5018ed33 (tag: 3.2.92)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Feb 25 17:43:42 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.92 Now preferring VP9 in Chrome.
+| 
+* commit f7b8af757abd341459b6bb21443c6cf6a681f1c3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Feb 23 20:13:39 2016 +0500
+| 
+|     A few demos updated. v3.0 now uses front-camera on Android.
+| 
+* commit ab7615acfe205bbb892fb2dc0bf7b8cb05536262 (tag: 3.2.91)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Feb 17 22:00:43 2016 +0500
+| 
+|     Forcing to reduce bandwidth on WiFi/Cell networks.
+| 
+* commit 05326ca5746084106956d9e4f5dad0858e63489b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Feb 13 12:28:33 2016 +0500
+| 
+|     Fixed Firefox issues for Scalable-Broadcast demo #88
+|     
+|     1) Firefox can NOT record remote-VIDEO-stream
+|     2) Firefox can NOT removeStream
+|     3) Firefox can NOT use replaceTrack for remoteMediaStream
+|     
+|     So if any of the middle peer leaves, Firefox is no where. The only
+|     solution for Firefox in such situation is “rejoin”.
+| 
+* commit 3a6bc2c5441199ef42a95a399a74270fc9709b1b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Feb 11 12:38:21 2016 +0500
+| 
+|     Added new demo: "addStream" in a Chat-Room #93
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/addStream-in-Chat-room.ht
+|     ml
+| 
+* commit 45064ee7dfb3d64c64a07127148e0d6064e9e193
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Feb 11 11:54:19 2016 +0500
+| 
+|     Now merely upper-nodes are asked to rejoin; deeper nodes are merely renegotiating peers. #88
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/Scalable-Broadcast.html
+| 
+* commit 56c4b63b47ee0ba2eb261c5c6d1e4db9d8bfb717
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Feb 5 20:39:38 2016 +0500
+| 
+|     Scalable-Broadcast is now improved. #88
+|     
+|     1) “maxRelayLimitPerNode” now works fine. So whatever limit HTML sets,
+|     it works.
+|     2) If any of the node from tree leaves, all nested nodes AUTO tries to
+|     rejoin broadcast.
+|     3) If broadcast initiator leaves, all receivers are informed and page
+|     is reloaded to clear everything.
+|     
+|     By default demo sets max-relay-limit to 1; i.e. each relayer merely
+|     relays to single another peer. This limit can be easily be changed by
+|     setting single number in the HTML file.
+|     
+|     Known issues: Sometimes it hangs the browser. Also “Maximum call stack
+|     size exceeded” on server.
+| 
+* commit a546bdb613a9f27a1a917c9bd29de513a5636e32
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Feb 5 16:13:56 2016 +0500
+| 
+|     Fixed "onstreamended" issue in the Scalable-Broadcast demo. #88
+| 
+* commit d79b5ffd67dc38c68da6d05c42c32121db1872c1
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Feb 5 14:38:54 2016 +0500
+| 
+|     Fixed Canary screen issue. Recording Scalable-Broadcast. Added CodecsHandler.js
+| 
+* commit 4ab29c421a734b562da859f26c599f2e3b11934d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Feb 4 16:06:17 2016 +0500
+| 
+|     Added demos/Scalable-Broadcast.html (which uses v3.0) Ref #88
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/Scalable-Broadcast.html
+| 
+* commit cdaac7066122109638c84d15630c52b33dcc1bc3 (tag: 3.2.90)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Feb 3 17:46:06 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.90
+|     
+|     1) Fixed user-leave issues
+|     2) Fixed broadcast:true issues
+|     3) If camera fails; v3.0 joins with audio-only.
+| 
+* commit 64199d59a1c7e5231d26478880a22ba6569b24ef (tag: 3.2.89)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Feb 1 13:00:48 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.89
+|     
+|     1) Now session is always kept ALIVE until autoCloseEntireSession is
+|     specified as TRUE.
+|     2) Manual “stream.onended” events are fired only for Firefox.
+|     3) Now participants doesn’t quickly tries to join all other
+|     participants; so no hang issues.
+|     4) Now it doesn’t renegotiates on datachannel close/error
+|     5) Now peers doesn’t auto rejoins on failures. You can manually call
+|     connection.rejoin in onPeerStateChanged or onReconnecting
+|     6) “connection.deletePeer” is added. Which removes everything
+|     (connections, streams, links etc) from specific peer.
+|     7) autoReDialOnFailure is removed. Because now it doesn’t auto rejoins.
+|     8) Now skipping bitrates/bandwidth customization for Android devices.
+| 
+* commit 87e4e6e3948657e23455cbebbe92633ceaf43b2d (tag: 3.2.88)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Jan 29 11:50:28 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.88 - Also, v2.2.2 is updated to support remote audio+video recording in Canary.
+|     
+|     RecordRTC can be used with v3.2.88 to record remote or local
+|     audio+video streams.
+| 
+* commit 4505cecfd99440c8dbfcbcb2e9c4454f1b8f4003 (tag: 3.2.87)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Jan 19 15:16:58 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.87
+| 
+* commit dbe1e2c65f420997a06d8e16fd3bb55d0f430005 (tag: 3.2.86)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jan 17 17:44:12 2016 +0500
+| 
+|     Added: rtcmulticonnection-v3@3.2.86 Fixed #84 Added "connection.resetTrack"
+|     
+|     “connection.resetTrack” works only in Firefox, to reset last audio or
+|     video track.
+|     
+|     If you replaced a video track; you can reset to old one.
+|     
+|     Added “removeStream” ugly-hack for Firefox.
+|     
+|     Now “muteType” is passed over “onmute” and “unmuteType” is passed over
+|     “onunmute”.
+|     
+|     Now firing “onstreamended” for Firefox screen as well.
+|     
+|     You can override “connection.getScreenConstraints” to set random id,
+|     and then you’ll be able to capture multiple screens and share in
+|     parallel.
+| 
+* commit 85931591512c220ecc9b48f267118b7f83ece71b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Jan 15 16:36:24 2016 +0500
+| 
+|     Added part-of-screen sharing demo
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/share-part-of-screen.html
+|     
+|     This demo shares DIV, and all the content inside DIV i.e. <h2>,
+|     <textarea>, <input> <p>, everything inside that DIV.
+| 
+* commit 088efae69eef43307a4887c4e82cf0e18e440e42 (tag: 3.2.84)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Jan 15 10:58:26 2016 +0500
+| 
+|     Added rtcmulticonnection-v3@3.2.84 Fixed #82
+|     
+|     1) now using gum adapter.js
+|     2) fixed iceConnectionState issues
+|     3) now remote stream is always removed & disconnection action is synced
+|     4) Screen-Capturing.js now uses “window” rather than “screen” (for
+|     Firefox)
+| 
+* commit 0eac1fbb7afce600be2af092c17f72154c6ed820 (tag: 3.2.83)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jan 14 17:34:59 2016 +0500
+| 
+|     Added: rtcmulticonnection-v3@3.2.83 Fixed #83
+| 
+* commit 64a0f996886889b0ed9e5a7499b3eb2a32618f32 (tag: 3.2.82)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jan 13 19:31:21 2016 +0500
+| 
+|     Added: rtcmulticonnection-v3@3.2.82
+|     
+|     Now v3.0 is having CDN links as well:
+|     
+|     https://github.com/muaz-khan/RTCMultiConnection#link-script-files
+| 
+* commit 89ebaf685e1facb9d706ae277da84d39446439b7
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jan 11 17:24:04 2016 +0500
+| 
+|     v2.2.2 demos links fixed.
+| 
+* commit cc170df709e05d3f85796c3cd628dc3cfba98fc9 (tag: 3.2.81)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jan 11 16:34:55 2016 +0500
+| 
+|     rtcmulticonnection-v3@3.2.81
+| 
+* commit 42859d3e0d481f9fb9f1bea5f4e63f1c246794c8
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jan 7 22:42:19 2016 +0500
+| 
+|     Added section: "How to use getStats"
+| 
+* commit 5aea90f088d298cdaf6e615998d69921b7cfbba8 (tag: 3.2.80)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jan 7 22:24:39 2016 +0500
+| 
+|     v3.2.80 now supports "join with/without camera"
+|     
+|     If users don’t have camera, they will still join for chat and file
+|     sharing.
+|     
+|     Demo:
+|     https://rtcmulticonnection.herokuapp.com/demos/Audio+Video+TextChat+File
+|     Sharing.html
+| 
+* commit 35af657784dfd56f1216b42795e8639716162f04
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jan 7 17:28:16 2016 +0500
+| 
+|     readme.md minor updates
+| 
+* commit 1f6e036875ce3374c5feee829d31e965ac18ff38 (tag: 3.2.77)
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jan 7 17:24:05 2016 +0500
+| 
+|     Missed v2.2.2 directory. Re-Added.
+| 
+* commit 808778c80f9b9d308069bfd19269aaa3dc3601a3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jan 7 17:20:52 2016 +0500
+| 
+|     RTCMultiConnection-v3.2.77 is now moved to https://github.com/muaz-khan/RTCMultiConnection
+|     
+|     v2,2.2 is moved to a sub-directory:
+|     https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2
+| 
+* commit 2c96a26e6f823d0b8ae8d1244a671034db3ab937
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Dec 27 12:43:02 2015 +0500
+| 
+|     RTCMultiConnection v3.2.75 added.
+| 
+* commit e41a148c46ff2909dd87ab63080f8660be2def21
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Dec 20 14:26:06 2015 +0500
+| 
+|     Scalable-Broadcast added in RTCMultiConnection-v3.0
+|     
+|     Share file(s) with unlimited users:
+|     https://rtcmulticonnection.herokuapp.com/demos/Files-Scalable-Broadcast.
+|     html
+|     
+|     Broadcast video over many users:
+|     https://rtcmulticonnection.herokuapp.com/demos/Video-Scalable-Broadcast.
+|     html
+|     
+|     Fixed FileBufferReader for “file-name” and packets-lost issues.
+|     
+|     Added “dontCaptureUserMedia”, “dontAttachStream” and similar API in
+|     v3.0.
+|     
+|     Scalable broadcast is initiated only if browser sets:
+|     connection.enableScalableBroadcast=true;
+|     
+|     Now using try-catch on nodejs-side to make sure server never shuts-down.
+| 
+* commit afdb85f7d968b1f8ec645bbf41a52fbb4ff41caf
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Dec 19 12:18:38 2015 +0500
+| 
+|     RTCMultiConnection v3.2.73 added.
+| 
+* commit dc9521679142653606f5f5713c1305d1a9e5a338
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Dec 13 22:28:58 2015 +0500
+| 
+|     Fixed FileBufferReader bug which prevented file sharing in Firefox.
+| 
+* commit 3e4e3fa7be54eb672b86e8abcad7d665661ff835
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Dec 13 11:16:52 2015 +0500
+| 
+|     RTCMultiConnection v3.2.5 added.
+| 
+* commit f1be8952e999da36d918494b0647d553221f3b17
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Dec 7 13:41:30 2015 +0500
+| 
+|     v3.0 demos updated.
+| 
+* commit fea54e50b885dd814ccfed26dadad066e9ae28b5
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Dec 5 13:44:40 2015 +0500
+| 
+|     Added and improved "connection.checkPresence"
+|     
+|     connection.checkPresence(function(isRoomExists, roomed) {
+|            if(isRoomExists) connection.join(roomed);
+|            else connection.open(roomed);
+|     });
+|     
+|     Demo:
+|     https://rtcmulticonnection.herokuapp.com/demos/checkPresence.html
+| 
+* commit d4778d308d485b743a29dbe68e4c5633dcf4706b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Dec 5 11:38:57 2015 +0500
+| 
+|     v3.2.3 added. Added "SocketCustomMessages". Removed "force-new-connection".
+|     
+|     FileBufferReader now creates single work for the life-time of the
+|     session.
+|     
+|     force-new-connection should be optional; that’s why removed. You can
+|     easily enable those options again by setting “connection.socketOptions”
+|     object.
+|     
+|     connection.socketCustomEvent = ‘unique-private-custom-event’;
+|     socket.emit(connection.socketCustomEvent, {
+|           email: ‘test@webrtc.com’,
+|           fullName: ‘tester’,
+|           country: ‘WWW’
+|     });
+|     
+|     socket.on(connection .socketCustomEvent, function(message) {
+|          alert(message.fullName + ‘: ‘ + message.email);
+|     });
+|     
+|     Socket can be obtained using:
+|     var socket = connection.getSocket();
+|     
+|     or
+|     connection.connectSocket(function(socket) {
+|          // this one is more reliable
+|         // because callback is fired
+|         // only if socket is connected
+|     
+|         sockete.mit(connection.socketCustomEvent, ’test’);
+|     });
+| 
+* commit 37c1d7195caf4d2be6b64aa665d1a61205482ce8
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Dec 1 22:48:28 2015 +0500
+| 
+|     Now stream.unmute('video') will NEVER UnMute audio. i.e. NO Echo issues.
+|     
+|     Chrome seems having a bug, if you re-enable video tracks, Chrome also
+|     enables audio tracks.
+|     
+|     v3.0 is fixed for such behavior. So, “unmuting” video-tracks will NEVER
+|     unmute “audio-tracks”.
+|     
+|     E.g.
+|     
+|     connection.streamEvents[‘stream-id’].stream.unmute(‘video’);
+| 
+* commit c534826388f19a48581f9921dcfe39ce7b404d80
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Dec 1 14:17:53 2015 +0500
+| 
+|     Added version 3.2.2. - Merged and Closed #76
+| 
+* commit 175787ffa2942e5135e5ccf2d70bba4f76cb26dd
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Nov 24 12:01:20 2015 +0500
+| 
+|     Exposed "BandwidthHandler" to public API.
+|   
+*   commit c47001ce5b2bc2916788e1c2a0e27aaa77627f09
+|\  Merge: ee95654 c56ccc8
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Tue Nov 24 11:59:10 2015 +0500
+| | 
+| |     Merge pull request #73 from brianpursley/master
+| |     
+| |     Added closeBeforeUnload flag to allow close before unload to be skipp…
+| | 
+| * commit c56ccc8480d4b6407518855f00da0df19a7ff0da
+|/  Author: brianpursley <bpursley@cinlogic.com>
+|   Date:   Mon Nov 23 19:56:26 2015 +0000
+|   
+|       Added closeBeforeUnload flag to allow close before unload to be skipped if desired (defaults to true to preserve original behavior)
+| 
+* commit ee95654b3271e50fc90d4dff714e9538ca25ec90
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Nov 21 15:35:30 2015 +0500
+| 
+|     Added new demo: file-sharing.html
+|     
+|     https://rtcmulticonnection.herokuapp.com/demos/file-sharing.html#5798547
+|     298181802
+|     
+|     connection.openOrJoin now accepts callback parameter as well e.g.
+|     
+|     connection.openOrJoin(‘roomed’, function(isRoomExists, roomed) {
+|         if(isRoomExists) alert(‘Current user joined the room’);
+|         else alert(‘Current user opened the room.’);
+|     });
+| 
+* commit 6d0d42d020bdad5c7f00bde6a5cc528aaae6fe7d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Nov 21 12:00:15 2015 +0500
+| 
+|     RTCMultiConnection-v3.0 demos are updated.
+|     
+|     https://rtcmulticonnection.herokuapp.com/
+|   
+*   commit f73fb36116b6fea3c111ff4f2aa07d464a60cf97
+|\  Merge: c8a79f0 ea0c9f7
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Nov 20 09:29:49 2015 +0500
+| | 
+| |     Merge pull request #72 from brianpursley/master
+| |     
+| |     Create new signaling socket for every instance of RTCMultiConnection
+| | 
+| * commit ea0c9f720c80b863b510fc868964fe371ed08e96
+| | Author: brianpursley <bpursley@cinlogic.com>
+| | Date:   Thu Nov 19 17:03:40 2015 +0000
+| | 
+| |     Fixed unused callback in connection.getSocket()
+| | 
+| * commit 092b1410dd4c7c43ffc0ae0999e69c88c515e922
+|/  Author: brianpursley <bpursley@cinlogic.com>
+|   Date:   Thu Nov 19 17:01:33 2015 +0000
+|   
+|       Added socket options and code to close socket when RTCMultiConnection is closed
+|   
+*   commit c8a79f0d52b51285daa039a78a836678169759fb
+|\  Merge: f1f0e05 4c0c6b2
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Tue Nov 17 09:29:55 2015 +0500
+| | 
+| |     Merge pull request #71 from brianpursley/master
+| |     
+| |     Updated DetectRTC.js to the latest version
+| | 
+| * commit 4c0c6b25d54be4c5067f6251b905509838698e4a
+|/  Author: brianpursley <bpursley@cinlogic.com>
+|   Date:   Mon Nov 16 21:11:09 2015 +0000
+|   
+|       Updated DetectRTC.js to the latest version
+|   
+*   commit f1f0e05396fa398efdc6e4c86e4896d4a9b22e1e
+|\  Merge: 1a7fca7 dcccf40
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Nov 13 12:27:21 2015 +0500
+| | 
+| |     Merge pull request #69 from changbenny/master
+| |     
+| |     Update webkit detection, for removing deprecation warning in Chrome.
+| | 
+| * commit dcccf4091218f9c29105339140004491edec08eb
+|/  Author: Howard <changbenny0401@gmail.com>
+|   Date:   Fri Nov 13 12:12:04 2015 +0800
+|   
+|       update webkit detection, for removing deprecation warning in Chrome.
+|   
+*   commit 1a7fca73924a9ed4830bf61d47a3c07b419b404c
+|\  Merge: f8fda3f 2a59dda
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Wed Nov 11 09:30:37 2015 +0500
+| | 
+| |     Merge pull request #68 from brianpursley/master
+| |     
+| |     Updated DetectRTC.js to the latest version
+| | 
+| * commit 2a59dda6d70cc24c6a1c552b54d709c2c20ccfbc
+|/  Author: brianpursley <bpursley@cinlogic.com>
+|   Date:   Tue Nov 10 19:33:42 2015 +0000
+|   
+|       Updated DetectRTC.js to the latest version
+| 
+* commit f8fda3fd384eed5717c3d9d39cbfc9d3f2fc852e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Nov 8 20:22:40 2015 +0500
+| 
+|     Tinny fixes in RTCMultiConnection-v3.0
+| 
+* commit 6b2b93313758c91a8ed413c5b8a697ab5db6f132
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Nov 6 14:22:32 2015 +0500
+| 
+|     Many-to-One Broadcast demo added.
+|     
+|     Live Demo URL:
+|     https://www.webrtc-experiment.com/RTCMultiConnection/many-to-one-broadca
+|     st.html
+|     
+|     1) Room moderator can receive videos from all participants.
+|     2) Room moderator himself can't share any video; so participants can't
+|     see him.
+|     3) Participants can't see each other because it is many-to-one
+|     broadcast.
+| 
+* commit 97472a1986e9771f679901534fcf6303c6a7d644
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Nov 6 12:22:59 2015 +0500
+| 
+|     v3.0 LIVE Demo URL: https://rtcmulticonnection.herokuapp.com/
+|     
+|     RTCMultiConnection-v3.0 is now having LIVE demo URL as well.
+| 
+* commit a6635355d4df2c6f062e94bc311ac9bf21f2b41d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Oct 30 20:28:41 2015 +0500
+| 
+|     Fixed multi-stream sharing in v2.2.2 (for Firefox users)
+| 
+* commit 26d722f90d28cb8d1f81bf341f57d6becb39b5e5
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Oct 29 20:16:43 2015 +0500
+| 
+|     Added a few hints regarding "multi-streams" sharing in Firefox.
+| 
+* commit 7eb5d6640eaa97ab379d66ae82dc87f8f3d44cbe
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Oct 29 20:04:40 2015 +0500
+| 
+|     Fixed v2.2.2 to support renegotiation in Firefox.
+|     
+|     Firefox is supporting multi-stream sharing and renegotiation since
+|     version 38;. Fixed v2.2.2 accordingly.
+|   
+*   commit 2745cbf5431dd5ebd6fbfe1d598a244e903b5408
+|\  Merge: 47ed75b f55fdb8
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Wed Oct 28 09:57:45 2015 +0500
+| | 
+| |     Merge pull request #63 from brianpursley/master
+| |     
+| |     Added combined __dirname with key folder so that node can execute ser…
+| | 
+| * commit f55fdb85ebe9e0cf93be54a65560a0eeb812a5b9
+| | Author: Brian Pursley <bpursley@cinlogic.com>
+| | Date:   Tue Oct 27 14:18:53 2015 -0400
+| | 
+| |     Fixed tab indentation
+| | 
+| * commit 81cb694b5426ba43de68443a3d6b0ab7c6665251
+| | Author: brianpursley <bpursley@cinlogic.com>
+| | Date:   Tue Oct 27 18:13:34 2015 +0000
+| | 
+| |     Added some checks to prevent exception when listOfUsers[socket.userid] is undefined
+| | 
+| * commit f563c0b7cc6160c755955db5524867936e8b3f5b
+|/  Author: brianpursley <bpursley@cinlogic.com>
+|   Date:   Tue Oct 27 15:54:23 2015 +0000
+|   
+|       Added combined __dirname with key folder so that node can execute server.js from any location without failing due to relative path
+| 
+* commit 47ed75b63178b6e5779d34ac7c9b6eab365d66ba
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 27 11:06:24 2015 +0500
+| 
+|     RTCMultiConnection v3.0 updated to v3.1.8
+|     
+|     FileBufferReader and getScreenId modules are updated.
+| 
+* commit 6e72cd5b227f42c0674456637b0cd992d5c6d929
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Oct 22 20:12:24 2015 +0500
+| 
+|     v2.2.2 and v3.0 updated. (now using latest DetectRTC.js)
+| 
+* commit 4aeefe3d41bfd6098119d2a69d58038a486ec667
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 20 13:29:12 2015 +0500
+| 
+|     RTCMultiConnection v2.2.2 and v3.0 updated. (some quick bugs fixed)
+|     
+|     Fixed: https://github.com/muaz-khan/Canvas-Designer/issues/5
+| 
+* commit 97c989ad4ee4668ba79b1184ed85a50e6089d1a0
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Oct 18 12:58:13 2015 +0500
+| 
+|     RTCMultiConnection-v3.0 updated. A few bugs fixed.
+| 
+* commit dd8ae49682a25293c18732de71c07eb86ee52254
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Oct 14 14:44:42 2015 +0500
+| 
+|     Fixed: https://github.com/muaz-khan/Canvas-Designer/issues/2
+| 
+* commit 6ae3aacecdf9b4e88511aa1cdad2f166e4e30430
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Oct 13 16:43:58 2015 +0500
+| 
+|     RTCMultiConnection-v3.0 is updated.
+| 
+* commit 38eea7b507b06b943aeef28c31e82aa7f5b3cf2b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Oct 12 20:13:41 2015 +0500
+| 
+|     PubNub support added in RTCMultiConnection v3.0
+| 
+* commit a73737a7d4bec86adf7e18648cea78952592b0e8
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Oct 11 22:46:25 2015 +0500
+| 
+|     Added Firebase support in RTCMultiConnection v3.0
+|     
+|     https://github.com/muaz-khan/RTCMultiConnection/tree/master/RTCMultiConn
+|     ection-v3.0#firebase
+| 
+* commit 714f718ad9c55031182683fe34dbe3e8191f51e7
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Oct 11 21:03:48 2015 +0500
+| 
+|     Replacing getScreenId.js with Screen-Capturing.js
+|     
+|     getScreenId.js hack is NO more working in Chrome.
+| 
+* commit 96101dc0a4609b279db89454d40d0c40580f9202
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Oct 8 23:55:46 2015 +0500
+| 
+|     Firefox removed prefix "moz" from RTCPeerConnection, RTCSessionDescription, RTCIceCandidate (nightly/aurora)
+| 
+* commit e60e7050e5a9461226ec72cde77edf14a274680b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Oct 8 23:50:37 2015 +0500
+| 
+|     RTCMultiConnection v2.2.2 and v3.0 updated.
+| 
+* commit b06d763aae1842c3f191c31ba12c3c90b1f46971
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Oct 2 22:15:26 2015 +0500
+| 
+|     RTCMultiConnection-v3.0 tinny updates.
+| 
+* commit 3a03aa1cf98b7fbd980e7e7cf85e922ce81ffc67
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Sep 30 08:39:43 2015 +0500
+| 
+|     Quick demos URLs fixed (moved from HTTP to HTTPs).
+| 
+* commit 8d1d517275cbe762a581a430c52ec30df1fc176f
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Sep 25 12:20:09 2015 +0500
+| 
+|     applyConstraints and replaceTrack added in v3.0
+|     
+|     1) Fixed: stream.isScreen / stream.isVideo / stream.isAudio
+|     2) connection. applyConstraints( mediaConstraints );
+|     3) connection.replaceTrack( track || stream || session );
+|     
+|     E.g.
+|     
+|     connection.replaceTrack({ screen: true, oneway: true });
+|     connection.replaceTrack( yourVideoTrack );
+|     connection.replaceTrack( yourVideoStream );
+|     
+|     4) onFIleStart/onFileSent removed. No backward compatibility is needed
+|     in this version.
+| 
+* commit a189c1ffc7ae66eced32c9a7762b7c584c8079fd
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Sep 21 10:13:39 2015 +0500
+| 
+|     v2.2.5 is removed. v2.2.2 is now stable. Fixed firefox new OfferToReceiveAudio/OfferToReceiveVideo issues in v2.2.2
+| 
+* commit 3ce7d43423a82082a242426d505e7ab629956753
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Sep 5 23:27:53 2015 +0500
+| 
+|     RTCMultiConnection-v3.0 is updated to v3.1.3
+| 
+* commit 536e77bd77e753e74cbffa1d024558d6254e7bac
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Jun 2 21:06:43 2015 +0500
+| 
+|     Signaling-Server.js updated.
+| 
+* commit b34a06d5cf15267723fbb38c2f68d468221a1507
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Jun 2 12:44:48 2015 +0500
+| 
+|     Implemented #45 and fixed many bugs.
+|     
+|     Please read readme.md for further changes.
+|     
+|     https://github.com/muaz-khan/RTCMultiConnection/tree/master/RTCMultiConn
+|     ection-v3.0
+| 
+* commit a147d0364b9b032105afe33c28d98be22f80013b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun May 31 13:42:20 2015 +0500
+| 
+|     Restructured & Signaling-Server.js is separated from server.js
+|     
+|     require('./Signaling-Server.js')(httpServerHandlerOrPort);
+| 
+* commit 44e86dfec6b615bde4f5a576f4d5e1d868e3e1c0
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri May 22 12:36:52 2015 +0500
+| 
+|     Text messaging issue fixed.
+|     
+|     Text chat demos were NOT working. It is fixed in v3.0.9
+| 
+* commit 5af0b1a1f09304bb2da9864db5530a6c0e7dc522
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri May 22 12:26:51 2015 +0500
+| 
+|     #43 fixed. "connection.join" wasn't working in v3.0.7
+| 
+* commit 06aefcd6b05cd1ed7e121b3630f980f13b00ff0e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun May 17 10:39:57 2015 +0500
+| 
+|     RTCMultiConnection-v3.0 updated.
+| 
+* commit 75038dd76cce652bf53457ded79a9590c497bb60
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat May 16 12:23:02 2015 +0500
+| 
+|     v3.0 bugs fixed. Added "single-file" as well.
+|     
+|     <script src="/Single-File/RTCMultiConnection.js"></script>
+| 
+* commit 8d17200da75e453df26088982840c8da9aa0eaa1
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat May 16 10:29:45 2015 +0500
+| 
+|     travis/grunt issues fixed.
+| 
+* commit 7a80ca5eecc7af2f67b8bf1d44d8fd818355fca7
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat May 16 10:12:12 2015 +0500
+| 
+|     Fixed #41 and updated RTCMultiConnection-v3.0
+| 
+* commit 154baf5d2fe2760edc6116eec383342f67ac330a
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Apr 1 09:03:43 2015 +0500
+| 
+|     RTCMultiConnection v3.0 updated.
+| 
+* commit e96777c0ad29f74c4caf207bf685e85ad5f2fb1b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Mar 19 13:22:50 2015 +0500
+| 
+|     RTCMultiConnection-v3.0 Beta added.
+|     
+|     https://www.npmjs.com/package/rtcmulticonnection-v3
+| 
+* commit 69705071ea53d473857e3ff9187c2692d0f9bbe5
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Feb 12 19:19:36 2015 +0500
+| 
+|     RTCMultiConnection-v2.2.5 updated.
+| 
+* commit 55aeddfff4d651348ecb0785e5f3d4360cfafd7a
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Feb 7 20:13:12 2015 +0500
+| 
+|     Fixed: https://github.com/muaz-khan/WebRTC-Experiment/issues/321
+| 
+* commit df1d23d155dfb0e9f4983581043d22d4794c45ae
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Dec 29 09:39:57 2014 +0500
+| 
+|     v2.2.5 - Now, "onSessionClosed" is fired as soon as initiator leaves, for all users---even NON-connected users.
+|     
+|     https://www.webrtc-experiment.com/RTCMultiConnection/session-reinitiation.html#comment-1760520478
+| 
+* commit 75ba79ad6b0b6d79b4db4f8e426d69cfdc81f419
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Dec 9 11:52:07 2014 +0500
+| 
+|     hark.js updated. "onspeaking" is disabled for remote streams.
+|     
+|     Now, stream object is having "pause" and "resume" methods to
+|     pause/resume hark.js instances.
+|     
+|     https://github.com/muaz-khan/RTCMultiConnection/wiki/Coding-Tricks#voice-activity-detection
+| 
+* commit bc9c3d6f18f2c697cfb2e8dbc0a65fb6256506d0
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Dec 7 11:15:46 2014 +0500
+| 
+|     A little bit fixes & updates in v2.2.4
+|     
+|     --. Fixed: If stream is having no audio or video tracks but
+|     session=audio:true,video:true
+|     
+|     --. Fixed: onstatechange isn't firing "request-accepted".
+| 
+* commit 022fe0e64107b68195a8981f0bce2a8b642badfe
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Dec 6 13:32:44 2014 +0500
+| 
+|     Mute/UnMute, Rengotiation in Firefox, etc. updated/fixed (in v2.2.4)
+| 
+* commit 5d80b58f3c8822b29a89f7f8435aed846ea54de4
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Dec 2 10:29:54 2014 +0500
+| 
+|     RTCMultiConnection-v2.2.4 updated.
+| 
+* commit c7850a0edbd487dce53d2fd167e9b666c6e6fb6e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Nov 28 10:25:07 2014 +0500
+| 
+|     Breaking changes in internal code; it'll not affect public API, though
+|     
+|     NEW/Breaking changes:
+|     --. RTCMultiSession is renamed to
+|     "SignalingHandler"
+|     --. "PeerConnection" is renamed to
+|     "RTCPeerConnectionHandler"
+|     --. MultiSockets concept has been removed.
+|     Now there is always single socket.
+|     
+|     --. takeSnapshot now returns "blob" as second argument.
+| 
+* commit e2850f04078618dfce660b8ece666d39effc29b5
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Nov 18 09:08:42 2014 +0500
+| 
+|     "getLength", "isEmpty" and "connection.waitUntilRemoteStreamStartsFlowing" fixed.
+|     
+|     dev/globals.js --- getLength
+|     dev/globals.js --- isEmpty
+|     dev/RTCMultiSession.js --- connection.waitUntilRemoteStreamStartsFlowing
+|   
+*   commit c66aac3a033f533e0d2a60c754be01e7a5ee38e9
+|\  Merge: f581b02 60cc03d
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Mon Nov 17 14:05:39 2014 +0500
+| | 
+| |     Merge pull request #22 from killmenot/streamid-fix
+| |     
+| |     Streamid fix
+| | 
+| * commit 60cc03d541bf748845c3e30d97300261597519d5
+| | Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+| | Date:   Mon Nov 17 02:48:51 2014 +0300
+| | 
+| |     stream -> streamid fix
+| | 
+| * commit 7ac2ad949e0509bcd02a1d10a7d29af70c00cb6c
+| | Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+| | Date:   Mon Nov 17 02:42:55 2014 +0300
+| | 
+| |     fix removing stream on connection.remove
+| | 
+* | commit f581b02a37588e6206fcd1ef74065741dd70de56
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Mon Nov 17 08:20:53 2014 +0500
+| | 
+| |     Fixed #20
+| |   
+* |   commit 7864ad2a111fc0a0813cca551f3e3b11e4d82117
+|\ \  Merge: b06d7f5 c8e3f94
+| |/  Author: Muaz Khan <muazkh@gmail.com>
+|/|   Date:   Mon Nov 17 07:53:01 2014 +0500
+| |   
+| |       Merge pull request #21 from killmenot/muteOrUnMute-fix
+| |       
+| |       Mute or un mute fix
+| | 
+| * commit c8e3f947c6bcb1ac368b0d7e41f347f970fbacec
+| | Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+| | Date:   Sun Nov 16 20:46:04 2014 +0300
+| | 
+| |     fix typo
+| | 
+| * commit a86a2cceda3fc312d3d4344da980e4467d147f2a
+|/  Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+|   Date:   Sun Nov 16 20:44:24 2014 +0300
+|   
+|       fix in _muteOrUnMute
+| 
+* commit b06d7f540fccc797b8ade915569f3cc660a1963f
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Nov 16 10:07:41 2014 +0500
+| 
+|     Added "grunt-contrib-concat" - Ref: #19
+|     
+|     https://github.com/muaz-khan/RTCMultiConnection/tree/master/dev
+| 
+* commit ed05d9661ccb93d9a2fdce7ae3da107888675308
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Nov 16 09:03:11 2014 +0500
+| 
+|     Fixed #16.
+|   
+*   commit b4ef0553fd4fa0dac491bb49e71880c417895320
+|\  Merge: cda4dd8 be95a5c
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sun Nov 16 08:47:59 2014 +0500
+| | 
+| |     Merge pull request #17 from killmenot/minor-updates
+| |     
+| |     Minor updates
+| | 
+| * commit be95a5c9f202b28923e6ae29233f2574d1ffcaad
+| | Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+| | Date:   Sat Nov 15 23:43:35 2014 +0300
+| | 
+| |     remove LICENSE duplication
+| | 
+| * commit 44da48098b68380509d72620d607a2356af0bbc4
+| | Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+| | Date:   Sat Nov 15 23:41:05 2014 +0300
+| | 
+| |     added grunt loader task, format Gruntfile and added grunt-bump (by vojtajina) to release new version
+| | 
+| * commit f36a0c3bd0908ba0b5c64d834436516c05742eeb
+| | Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+| | Date:   Sat Nov 15 23:40:07 2014 +0300
+| | 
+| |     correct version 2.2.4
+| |   
+| *   commit 1f83d228a35bfec7c485407373ab432b8204aa60
+| |\  Merge: ee33ed5 cda4dd8
+| |/  Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+|/|   Date:   Sat Nov 15 23:33:07 2014 +0300
+| |   
+| |       Merge branch 'master' of github.com:muaz-khan/RTCMultiConnection
+| |       
+| |       Conflicts:
+| |               .gitignore
+| |               CONTRIBUTING.md
+| |               Gruntfile.js
+| |               package.json
+| | 
+* | commit cda4dd87451ec4d4f72eb7fe1c2bea69463b60a0
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 19:13:20 2014 +0500
+| | 
+| |     RTCMultiConnection-v2.2.4 quick fix.
+| | 
+* | commit 9bbac7c6fc4637a6a72a5e46ad677445421daeca
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 18:53:15 2014 +0500
+| | 
+| |     Removing nodejs 0.8 and 0.10 from .travis.yml
+| | 
+* | commit d7b2cc6676e049150c0dcd0759b51766a1400bf6
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 18:49:41 2014 +0500
+| | 
+| |     Updated package.json
+| |     
+| |     https://travis-ci.org/muaz-khan/RTCMultiConnection
+| | 
+* | commit 0498430f608e3dc8f53ee7aa66706aa855e430c1
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 18:45:02 2014 +0500
+| | 
+| |     .travis.yml build still fails.
+| | 
+* | commit 69de79e748e6b3e9db2a861fd3c290fffb5a3c1b
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 18:39:59 2014 +0500
+| | 
+| |     .travis.yml updated.
+| | 
+* | commit b19cd1c147a5ac85ff674a247d5c5002ab5abcdc
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 18:35:38 2014 +0500
+| | 
+| |     Updated for grunt and other stuff.
+| | 
+* | commit 4e2842e008e204338426325068174e0b766856bf
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 15:16:10 2014 +0500
+| | 
+| |     Fixing .travis builds.
+| | 
+* | commit 352db3f03bf84b7af5fdcd134895f696e51420e9
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 14:05:15 2014 +0500
+| | 
+| |     *.jshintrc, *.travis, *.md etc file extensions fixed.
+| | 
+* | commit bf6b10a94a1684679706031d8e6f0f281da0a59a
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Sat Nov 15 13:49:10 2014 +0500
+| | 
+| |     grunt( htmlhint, jshint, uglify), .travis.yml and v2.2.4
+| | 
+* | commit f3eb3210cb0ab633551bd0a67ecdd81781f1a376
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Nov 14 16:52:41 2014 +0500
+| | 
+| |     Updates taken from: https://github.com/killmenot/RTCMultiConnection
+| | 
+* | commit efc83d872b244cf7c3670fa335b7010bffb9cfa7
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Nov 14 16:13:02 2014 +0500
+| | 
+| |     Remote stream forwarding demo fixed.
+| |     
+| |     https://www.webrtc-experiment.com/RTCMultiConnection/remote-stream-forwarding.html
+| |     
+| |     Added list of breaking changes:
+| |     https://github.com/muaz-khan/RTCMultiConnection/wiki/Breaking-Changes
+| | 
+* | commit db2c86597a5dd0e637487cc25c5670913f6d0cbf
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Fri Nov 14 15:20:40 2014 +0500
+| | 
+| |     Added bower.json
+| |     
+| |     bower install rtcmulticonnection
+| | 
+* | commit 1b6ce3daadb516b8b73638de8247b8fa5045f276
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Thu Nov 13 11:16:27 2014 +0500
+| | 
+| |     Screen-sharing.html updated.
+| |   
+| *   commit ee33ed590f38476a414436e3156bb4a201e031b2
+| |\  Merge: 01add60 d427ef1
+| | | Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+| | | Date:   Wed Nov 12 18:19:06 2014 +0300
+| | | 
+| | |     Merge pull request #1 from Reptoh/master
+| | |     
+| | |     Update CHANGELOG.md
+| | | 
+| | * commit d427ef1c2c3d52089558606bbd7012d347c8bcdb
+| | | Author: Dmitry <reptoh@gmail.com>
+| | | Date:   Wed Nov 12 14:19:34 2014 +0300
+| | | 
+| | |     Update CHANGELOG.md
+| | | 
+| | * commit 7e433a2ecd661c7db32a92dc7ce10c9bdc16280d
+| | | Author: Dmitry <reptoh@gmail.com>
+| | | Date:   Tue Nov 11 18:25:25 2014 +0300
+| | | 
+| | |     Update CHANGELOG.md
+| | | 
+| | * commit b92776a75b40c4e1d179c00c7b4722745a972e05
+| | | Author: Dmitry <reptoh@gmail.com>
+| | | Date:   Tue Nov 11 18:20:45 2014 +0300
+| | | 
+| | |     Update CHANGELOG.md
+| | | 
+| | * commit c6a601a2367f4a1951fb606a67b100ab51034216
+| |/  Author: Dmitry <reptoh@gmail.com>
+| |   Date:   Tue Nov 11 18:16:55 2014 +0300
+| |   
+| |       Update CHANGELOG.md
+| | 
+| * commit 01add609312cf8a2f50ec44869c170ee583b29bc
+|/  Author: Alexey Kucherenko <alexei.kucherenko@gmail.com>
+|   Date:   Tue Nov 11 12:56:26 2014 +0300
+|   
+|       added bower.json, CHANGELOG, CONTRIBUTING, LICENSE and Gruntfile
+| 
+* commit 05f0c76b0ad116612428cd1d9618450b733b3e89
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Nov 5 09:47:31 2014 +0500
+| 
+|     RTCMultiConnection-v2.2.3 added.
+| 
+* commit 1a37f34b39ccc51022a719d271aacc7f6da9b05f
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Nov 5 09:23:53 2014 +0500
+| 
+|     RTCMultiConnection-v2.2.2 added.
+| 
+* commit 7d0c767886911f96c2955f97e58c2c9a65b91134
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Oct 16 14:22:52 2014 +0500
+| 
+|     RTCMultiConnection-v2.2.1 released.
+|     
+|     http://www.rtcmulticonnection.org/changes-log/#v2.0
+|     
+|     +
+|     . screen capturing improved & some bugs fixed.
+|     .
+|     connection.stopMediaStream improved.
+|   
+*   commit 6a08dbb78231381c6252e03e72d8cc7a120ef1c4
+|\  Merge: 8aac66b 9f93d9b
+| | Author: Muaz Khan <muazkh@gmail.com>
+| | Date:   Wed Oct 15 15:05:20 2014 +0500
+| | 
+| |     Merge pull request #13 from Yuripetusko/master
+| |     
+| |     MediaStreamTrack.stop and Firefox (OSX)
+| | 
+| * commit 9f93d9b3b8ae7caebe90c80062cb3d7fa17a20ca
+| | Author: Yuri Petusko <yuripetusko@gmail.com>
+| | Date:   Wed Oct 15 10:56:35 2014 +0100
+| | 
+| |     Reversing test, as we are testing for presence of feature and not for it's absence
+| | 
+| * commit 9d7c2edd92c4fa5cd1ffd3de3e42840b80bf0ee5
+| | Author: Yuri Petusko <yuripetusko@gmail.com>
+| | Date:   Wed Oct 15 10:54:09 2014 +0100
+| | 
+| |     testing for video tracks also
+| | 
+| * commit d769a200f5c6507f7d7c5168905268d2993924fa
+| | Author: Yuri Petusko <yuripetusko@gmail.com>
+| | Date:   Wed Oct 15 10:02:50 2014 +0100
+| | 
+| |     reversing test
+| | 
+| * commit 9c4b5e9ae18f1c28b1bcc1846b51a81904ef6d57
+|/  Author: Yuri Petusko <yuripetusko@gmail.com>
+|   Date:   Wed Oct 15 09:57:11 2014 +0100
+|   
+|       Additional test for MediaStreamTrack.stop()
+| 
+* commit 8aac66b30fd384a7acb0093919e78d30fc32afe3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Oct 11 08:40:21 2014 +0500
+| 
+|     Added v2.2.1 and Broadcast Multiple-Cameras demo.
+|     
+|     Demo URI:
+|     https://www.webrtc-experiment.com/RTCMultiConnection/Broadcast-Multiple-Cameras.html
+|     
+|     Fixed #11
+|     
+|     Changes Log: http://www.rtcmulticonnection.org/changes-log/#v2.0
+|     
+|     v2.2.1 breaking updates:
+|     --. connection.stats.sessions is removed; use
+|     connection.sessionDescriptions instead.
+|     --. connection.stats.numberOfSessions is removed; use
+|     connection.numberOfSessions instead.
+|     --. connection.stats.numberOfConnectedUsers is removed; use
+|     connection.numberOfConnectedUsers instead.
+|     --. connection.getStats and connection.stats are removed.
+| 
+* commit e6a5bea20b2b345ff35e8b54d987e87d4bb8911d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Sep 25 20:14:31 2014 +0500
+| 
+|     Audio/Video/Screen sharing and recording and takeSnapshot demos added.
+|     
+|     https://www.webrtc-experiment.com/RTCMultiConnection/audio-video-screen-sharing-recording.html
+|     
+|     https://www.webrtc-experiment.com/RTCMultiConnection/takeSnapshot.html
+| 
+* commit beb837d942b87f980b79fe281444fe29d7f8c552
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Sep 22 21:11:32 2014 +0500
+| 
+|     RTCMultiConnection-v2.2.0 added.
+| 
+* commit dbab651bdeda14495402585c6d8693a22e158f1b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Sep 20 19:40:27 2014 +0500
+| 
+|     RTCMultiConnection-v2.1.9 added.
+| 
+* commit b137c3404d5dc1e1b9df5239a325febd9d00e25e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Sep 19 20:23:26 2014 +0500
+| 
+|     RTCMultiConnection-v2.1.8 added.
+|     
+|     -. sync:false added for "connection.streams['streamid'].mute" method.
+|     
+|     -. Ref:
+|     https://trello.com/c/zAr3yFXg/60-sync-false-added-for-mute-method
+|     
+|     -.
+|     updated: connection.mediaConstraints = { video: videoConstraints, audio:
+|     audioConstraints };
+|     -. Ref:
+|     https://trello.com/c/BHDoAb93/59-connection-mediaconstraints-is-prioritized-over-connection-session
+|     
+|     -.
+|     "onstreamended" fixed. Ref:
+|     https://trello.com/c/7MpMLJgY/58-onstreamended-fixed
+| 
+* commit 54a6ad6c73132d56206d9157a63661e0e903af72
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Sep 15 06:50:38 2014 +0500
+| 
+|     RTCMultiConnection-v2.1.7 added.
+| 
+* commit 733ea55f39247b433287871555232542c1460a74
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Sep 13 10:49:43 2014 +0500
+| 
+|     RTCMultiConnection-v2.1.6 added.
+|     
+|     -. Now "onstreamended" is fired merely "once" for each stream.
+|     
+|     -. {audio:true,video:true} are forced for Android. All media-constraints
+|     skipped.
+|     
+|     -. Firefox screen capturing is HTTPs-only.
+| 
+* commit 093edb21312f2587268ba777e5963a8614987d4f
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Sep 8 20:04:27 2014 +0500
+| 
+|     RTCMultiConnection-v2.1.5 added.
+|     
+|     http://www.rtcmulticonnection.org/changes-log/#v2.0
+| 
+* commit 814306b9a0f6fe13dd9a626242ac2720428f8e7f
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Sep 7 00:00:50 2014 +0500
+| 
+|     RTCMultiConnection-v2.1.4 added with many fixes & updates.
+|     
+|     -. Screen negotiations fixed. Screen can be renegotiated many times.
+|     
+|     -. preferJSON is removed. Now data is "always" sent as ArrayBuffer.
+|     
+|     -. connection.candidates has been fixed.
+|     
+|     -. FileSender/FileReceiver/FileConveter has been removed.
+|     
+|     -. FileBufferReader added. https://github.com/muaz-khan/FileBufferReader
+|     
+|     -. onFileStart/onFileProgress/onFileEnd: now having "userid" and "extra"
+|     objects.
+| 
+* commit c5f2d4e4ab151ef50b3f7693c5052bd725ceb3f7
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Sep 3 11:06:01 2014 +0500
+| 
+|     v2.1.2 :  pre-muted streams, enumerateDevices, selectFirst/selectAll etc.
+|     
+|     -. when "muted" stream is negotiated; it fires "onmute" event as soon as
+|     as remote stream is received.
+|     -. autoReDialOnFailure is "true" by default.
+|     -. fakeDataChannels is now "true" by default.
+|     -. (unconfirmed) playRoleOfBroadcaster fixed. Now initiation control can
+|     be transferred to many users without closing the session.
+|     -. fixed: selectDevices
+|     -. added: connection.enumerateDevices and connection.getMediaDevices
+|     -. added: connection.changeBandwidth
+|     
+|     -. added: connection.streams.remove
+|     
+|     -. added: "selectFirst" and "selectAll" over "connection.streams"
+|     ---. var videoStream = connection.streams.selectFirst({ isVideo: true,
+|     local: true });
+|     ---. var allRemoteStreams = connection.streams.selectAll({ remote: true
+|     });
+|     ---. connection.streams.selectAll({ userid: 'someone'
+|     }).forEach(function(stream) { connection.stopMediaStream(stream.stream);
+|     });
+|     ---. "selectFirst" method allows you get first stream of specific kind
+|     or userid.
+|     ---. "selectAll" method allows you get array-of-streams of specific kind
+|     or userid.
+|     
+|     -. connection.streams.stop({userid: 'remote-userid', screen: true});
+| 
+* commit bd5cb19e327780f1871801458e7abbc88cb0ccba
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Aug 28 11:18:20 2014 +0500
+| 
+|     v2.1.1: "selectFirst" and "selectAll" added over "connection.streams"
+|     
+|     var videoStream = connection.streams.selectFirst({ isVideo: true, local:
+|     true });
+|     
+|     var allRemoteStreams = connection.streams.selectAll({ remote: true });
+|     
+|     connection.streams.selectAll({ userid: 'someone'
+|     }).forEach(function(stream) {
+|     connection.stopMediaStream(stream.stream);
+|     });
+|     
+|     "selectFirst" method allows you get first stream of specific kind or
+|     userid.
+|     
+|     "selectAll" method allows you get array-of-streams of specific kind or
+|     userid.
+| 
+* commit 46886f5d6414e113966bee997a8c708e8097a6ab
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Aug 23 20:45:09 2014 +0500
+| 
+|     connection.privileges added.  connection.onstatechange updated.
+|     
+|     // set it "false" if you want to restrict user to stop/mute remote
+|     stream
+|     // if user will try to programmatically invoke "stop" or "mute" method,
+|     // you'll be informed in the "onstatechange" event.
+|     connection.privileges = {
+|     canStopRemoteStream: true, // user can stop remote streams
+|     canMuteRemoteStream: true  // user can mute remote streams
+|     };
+|     
+|     http://www.rtcmulticonnection.org/changes-log/#v2.0
+|     
+|     Breaking changes for "connection.onstatechange". Now an "object" is
+|     passed over "onstatechange"
+|     
+|     connection.onstatechange = function(state) {
+|     // state.userid == 'target-userid' || 'browser'
+|     // state.extra  == 'target-user-extra-data' || {}
+|     // state.name  == 'short name'
+|     // state.reason == 'longer description'
+|     if(state.name == 'stop-request-denied') {
+|     alert(state.reason);
+|     }
+|     };
+|     
+|     http://www.rtcmulticonnection.org/docs/onstatechange/
+|     
+|     Now connection.streams['streamid'] == eventObject that is passed over
+|     "onstream" event.
+| 
+* commit cd53c1d8a43ace61c5cd3fe3ad1f58aee29e3b48
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Aug 23 09:21:49 2014 +0500
+| 
+|     v2.0.9 - IE11 support added. connection.UA updated.
+|     
+|     http://www.rtcmulticonnection.org/changes-log/#v2.0
+|     
+|     and
+|     
+|     https://github.com/muaz-khan/WebRTC-Experiment/issues/266
+| 
+* commit 956c2cd714a62617dbe9c100c4343900e99974e6
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Aug 22 19:40:57 2014 +0500
+| 
+|     v2.0.8 - Fixed event.isVideo/event.isAudio for onstream/onmute/onhold etc.
+|     
+|     https://github.com/muaz-khan/WebRTC-Experiment/issues/269
+| 
+* commit 724a7914719247674c8a101abe8cb1110fef5e0e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Aug 22 14:41:22 2014 +0500
+| 
+|     connection.preferJSON=true added. You can set "false" to send non-Blob types i.e. ArrayBuffer/ArrayBufferView/DataView etc.
+|     
+|     http://www.rtcmulticonnection.org/changes-log/#v2.0
+|     
+|     connection.preferJSON = false;
+|     // send array buffer
+|     connection.send( new ArrayBuffer(10) );
+| 
+* commit 1b5b8315440372e76079b57b61e4672c90dbcbf8
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Aug 22 10:36:08 2014 +0500
+| 
+|     connection.sharePartOfScreen fixed for sharing screen over multi-users.
+|     
+|     connection.getExternalIceServers is now "false" by default. If you want
+|     to use XirSys based ICE-Servers in your application, you MUST set it
+|     "true":
+|     
+|     http://www.rtcmulticonnection.org/changes-log/#v2.0
+| 
+* commit 6aed04f9677a76cfa9fc95e1ed02c7e388cecba0
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Aug 21 10:23:50 2014 +0500
+| 
+|     Now, "sendCustomMessage", "addStream", "switchStream", "renegotiate" and "removeStream" can be called even if there is no user connected.
+|     
+|     http://www.rtcmulticonnection.org/changes-log/#v2.0
+| 
+* commit c402e7e376708d59683d7317d403e8814be732e6
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Aug 19 09:00:32 2014 +0500
+| 
+|     switchStream, inactive-session, waitUntilRemoteStreamStartsFlowing, and TextSender.send.
+|     
+|     -. support added: inactive at initial handshake
+|     -. E.g. connection.session = { audio: true, inactive: true }
+|     
+|     -. added: connection.waitUntilRemoteStreamStartsFlowing = false;
+|     
+|     -. added: connection.switchStream(session)
+|     -. e.g. connection.switchStream({ screen: true, oneway: true }); //
+|     remove all old streams and add screen in oneway.
+|     
+|     -. fixed: TextSender is unable to send array.
+| 
+* commit 615751dbe888e03bfbe43fcbd751a2125e0ecd84
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Aug 17 13:12:09 2014 +0500
+| 
+|     connection.disconnect() added.
+|     
+|     It fires:
+|     
+|     connection.ondisconnected = function(event){
+|     ----  if( event.isSocketsDisconnected == true ) { }
+|     };
+|     
+|     connection.disconnect() means, "Disconnect all SOCKETS, all PEERS, all
+|     STREAMS (if keepStreamsOpened isn't used) and everything except
+|     RTCMultiConnection object).
+|     
+|     You can use it like this:
+|     
+|     connection.close();
+|     connection.disconnect();
+|     
+|     This method is useful in "session-reinitiation" scenarios.
+|     
+|     When connection is disconnected, you need to call "connection.connect"
+|     or "connection.join" to join the session.
+| 
+* commit 53400cb3df94a091b8f937c2f5fb8831f79c8d82
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Aug 16 20:02:46 2014 +0500
+| 
+|     connection.removeStream enhanced.
+|     
+|     -. 1) connection.removeStream('screen') -- remove all screen streams
+|     -. 2) connection.removeStream('video') -- remove all video streams
+|     -. 3) connection.removeStream('audio') -- remove all audio streams
+|     -. 4) connection.removeStream({ screen: true, audio: true }) -- remove
+|     all audio and screen streams
+|     
+|     Now, createAnswer is called only when setRemoteDescription returns
+|     success-callback.
+| 
+* commit 250fa697bdb1fdcf7dbbaf9a6ad0f7c6fa4c7d3b
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Aug 16 15:42:42 2014 +0500
+| 
+|     DataChannel [send], streams [stop], and a few other fixes.
+|     
+|     RTCMultiConection.streams.stop method allows you stop all streams, all
+|     local streams, all remote streams, all audio streams, all video streams,
+|     all screen streams, all local screen streams, all local audio streams
+|     and so on.
+|     -. connection.streams.stop('screen')
+|     -. connection.streams.stop('audio')
+|     -. connection.streams.stop('video')
+|     -. connection.streams.stop({ remote: true, video: true, screen: true })
+|     -. connection.streams.stop({ local: true, audio: true })
+|     
+|     -. data-channels "send" method improved.
+|     
+|     -. fixed: onStreamEvent.isAudio/onStreamEvent.isVideo seems NULL in
+|     mute/unmute cases with only {audio:true} or {video:true}
+| 
+* commit 48cc7d76c6d4a9f30e05e9967cdd843b45e1ded7
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Aug 15 10:19:24 2014 +0500
+| 
+|     Minor fixes and updates.
+| 
+* commit df50eab46d989af5283b42581d668c4d48c68b6d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Aug 10 11:14:08 2014 +0500
+| 
+|     "keepStreamsOpened" and "localStreams" added.
+|     
+|     // if you want to keep streams opened even if session is closed.
+|     connection.connection.keepStreamsOpened = true;
+|     
+|     connection.onSessionClosed = function() {
+|     var stream = connection.localStreams[streamid];
+|     };
+|     
+|     Though it isn't needed, however there is "stopMediaStream" method as
+|     well:
+|     
+|     connection.stopMediaStream(MediaStream);
+|     
+|     "stopMediaStream" will simply invoked "stop" method over
+|     MediaStreamTrack (if available), otherwise it'll fallback to
+|     "MediaStream.stop" method. It'll also invoke "stream.onended" event
+|     which has no support in Firefox yet.
+|     
+|     Removed: connection.caniuse.checkIfScreenSharingFlagEnabled. It was
+|     redundant.
+| 
+* commit a06f56f6df6b6aa781ab948e01aa3bcdc0b512e3
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Aug 10 09:41:02 2014 +0500
+| 
+|     RTCMultiConnection-v2.0 added.
+| 
+* commit 8f409de3397d1df4e29a9de057116f475334866f
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jul 30 15:24:41 2014 +0500
+| 
+|     workaround-added: Firefox don't yet support onended for any stream (remote/local)
+|     
+|     https://bugzilla.mozilla.org/show_bug.cgi?id=1045810
+| 
+* commit 5e5551ab94f28a8edd57114846d3174095e75f6e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jul 28 21:22:07 2014 +0500
+| 
+|     Updated for audio+screen from single getUserMedia request for FF Nightly.
+|     
+|     // Firefox is supporting audio+screen from single
+|     // getUserMedia request
+|     // audio+video+screen will become audio+screen for Firefox
+|     // because Firefox isn't supporting multi-streams feature
+|     
+|     Below snippet is sharing single video stream containing both audio/video
+|     tracks; and target browser is joining with only audio. Screen can be
+|     viewed on both chrome and Firefox. If you'll share from chrome, then it
+|     will be making multiple getUserMedia requests.
+|     
+|     // initiator from Firefox
+|     initiator.session = {
+|     ---- screen: true,
+|     ----
+|     audio: true
+|     };
+|     
+|     // participant in chrome or
+|     Firefox
+|     participant.onNewSession = function(session) {
+|     ----
+|     session.join({ audio: true });
+|     };
+| 
+* commit afcdfc5d388126acaf3c2d4dd68413ea8f60f0eb
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jul 26 09:13:19 2014 +0500
+| 
+|     Screen capturing support for Firefox nightly added.
+|     
+|     You simply need to open `about:config` on Firefox nightly and set
+|     `media.getusermedia.screensharing.enabled` to `true`.
+|     
+|     connection.session   = {screen: true};
+|     connection.direction = 'one-way';
+| 
+* commit 441f1c357e39d9b0e3a98c1ff21811afe0677e67
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jul 23 04:40:22 2014 +0500
+| 
+|     connection.onstreamid added.
+|     
+|     connection.onstreamid = function (e) {
+|     // e.streamid
+|     // e.isScreen
+|     // e.isVideo
+|     // e.isAudio
+|     // e.userid
+|     // e.extra
+|     };
+| 
+* commit 18873c9bf13801606dffb1c4121506202be0f528
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jul 21 18:54:28 2014 +0500
+| 
+|     connection.eject fixed #2. connection.dontCaptureUserMedia etc.
+|     
+|     1. connection.dontCaptureUserMedia
+|     2. connection.dontAttachStream
+|     3. connection.onconnected
+|     4. connection.onfailed
+|     5. connection.eject
+| 
+* commit bff27e54ed538b1e47861f6efa8edeecf0f93f89
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jul 20 20:34:40 2014 +0500
+| 
+|     Fixed: `remoteEvent.streamid` and `remoteEvent.isScreen`
+|     
+|     connection.onstream = function(event) {
+|         if(event.isScreen) {
+|     
+|     // it is screen
+|         }
+|     };
+| 
+* commit 5acfa1b5bda78459a0807900f70755616ee3131d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Fri Jul 18 14:08:19 2014 +0500
+| 
+|     Switched to RTCMultiConnection-v1.9
+|     
+|     http://www.rtcmulticonnection.org/changes-log/#v1.9
+| 
+* commit b979b5881d8aea46c28b11f51dbd3648893ffe28
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jul 16 18:34:53 2014 +0500
+| 
+|     tinny fixes
+| 
+* commit 976885b35fd384c22c7e999faf636034c05690bf
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jul 16 18:25:12 2014 +0500
+| 
+|     Invalid screen capturing extension-id cases fixed.
+|     
+|     If you linked invalid or 3rd-party extension-id which doesn't have
+|     included your domain in the [content-script
+|     matches](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/Chrome-Extensions/desktopCapture/manifest.json#L16),
+|     then RTCMultiConnection will auto fallback to command-line flag
+|     option.
+|     
+|     DetectRTC.screen.extensionid =
+|     'invalid-or-3rd-party-extension-id';
+| 
+* commit 60f2192b49277a113c12d485873869ef8073b7c1
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jul 16 17:53:39 2014 +0500
+| 
+|     tinny fixed + logs improved + custom screen capturing extension
+|     
+|     // if you deployed your own chrome extension on Google App Store
+|     //
+|     extension-id is mandatory for next boolean
+|     DetectRTC.screen.extensionid
+|     = 'your-custom-google-app-store-extension-id';
+|     
+|     connection.connection.useCustomChromeExtensionForScreenCapturing =
+|     true;
+| 
+* commit 10b0b9bd58d0b7cfca0022608f41f9ddf0e5c26d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jul 14 22:53:32 2014 +0500
+| 
+|     connection.session={} fixed. useCustomChromeExtensionForScreenCapturing added.
+|     
+|     // if you deployed your own chrome extension on Google App
+|     Store
+|     connection.connection.useCustomChromeExtensionForScreenCapturing =
+|     true;
+|     
+|     `connection.session={}` fixed. If `session` is set to empty then
+|     initiator will be `recvonly`:
+|     
+|     https://github.com/muaz-khan/RTCMultiConnection-experimental#recent-changes
+| 
+* commit 8badea347ad73a7777ebd542e6c5ccccfdb775d1
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jul 13 22:00:08 2014 +0500
+| 
+|     getExternalIceServers added. connection.mediaConstraints updated.
+|     
+|     `connection.getExternalIceServers` boolean added. Now, by default,
+|     RTCMultiConnection gets TURN/STUN servers from xirsys however you can
+|     disable this feature using same boolean
+|     object.
+|     
+|     ```javascript
+|     connection.getExternalIceServers = false; //
+|     disable
+|     ```
+|     
+|     `connection.mediaConstraints` and `connection.media`
+|     updated. Now it works same like getUserMedia
+|     API.
+|     
+|     ```javascript
+|     connection.mediaConstraints = {
+|         mandatory: {
+|     
+|     maxWidth: 1280,
+|             maxHeight: 720,
+|             minAspectRatio: 1.77
+|     
+|     },
+|         optional: []
+|     };
+|     ```
+|     
+|     `connection.media.min` and
+|     `connection.media.max` sets min/max width/heigth in the
+|     `connection.mediaConstraints.mandatory`
+|     object:
+|     
+|     ```javascript
+|     connection.min(1280, 720);
+|     connection.min(1920,
+|     1080);
+|     
+|     // it is actually similar like this;
+|     connection.mediaConstraints
+|     = {
+|         mandatory: {
+|             maxWidth: 1280,
+|             maxHeight: 720,
+|     
+|     maxWidth: 1920,
+|             maxHeight: 1080
+|         },
+|         optional:
+|     []
+|     };
+|     ```
+|     
+|     You can use SD video like
+|     this:
+|     
+|     ```javascript
+|     connection.mediaConstraints = {
+|         mandatory: {},
+|     
+|     optional: []
+|     };
+|     ```
+| 
+* commit e8d7402599f199d69a19ff1260d84948a6c89818
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jul 10 22:32:16 2014 +0500
+| 
+|     `connection.onstream` is updated for `event.isScreen` boolean.
+|     
+|     ```javascript
+|     connection.onstream = function(event) {
+|         // to check
+|     screen stream
+|         if(event.isScreen) { }
+|     
+|         // to check audio-only
+|     stream
+|         if(event.isAudio) { }
+|     
+|         // to check audio+video
+|     stream
+|         if(event.isVideo) { }
+|     };
+| 
+* commit 44bcecce5f252cc7a5c43638b18e80e918a4d013
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jul 10 20:57:19 2014 +0500
+| 
+|     iceProtocols added; refresh, preventSSLAutoAllowed and iceServers updated.
+|     
+|     1. `connection.refresh` is updated. Now, session-reinitiation works as
+|     expected. You simply need to call `connection.leave` to leave a session
+|     and rejoin same session or join any other.
+|     2. `connection.iceProtocols =
+|     { tcp: true, udp: true}` added.
+|     3. STUN/TURN servers updated.
+|     4.
+|     `connection.preventSSLAutoAllowed` is disabled by default.
+|     
+|     For recent changes;
+|     https://github.com/muaz-khan/RTCMultiConnection-experimental#recent-changes
+|     
+|     Issues?
+|     
+|     1. onstream event MUST have only {event.session.screen} for screen
+|     stream; and vice versa. It must also fixed audio+video+screen and
+|     streams-distinguish issues.
+|     
+|     2. connection.playRoleOfInitiator must have extra-data as well.
+|     
+|     3. Audio/Video recording must support single-file for Firefox.
+|     
+|     4. Need to use maxaveragebitrate for audio bandwidth.
+|     
+|     5. Provide options to use local chrome extension for screen capturing.
+|     
+|     For list of issues;
+|     https://github.com/muaz-khan/RTCMultiConnection-experimental#issues
+| 
+* commit 968eaefca26115e6556a01e740a59417036dd364
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jul 2 16:43:30 2014 +0500
+| 
+|     Screen capturing is fallback --enable-usermedia-screen-capturing
+| 
+* commit a93246595c38b92884470c0ff4e475a903e397fb
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jul 2 16:15:54 2014 +0500
+| 
+|     Cross-domain screen capturing latency fixed.
+|     
+|     Now, using "window.postMessage" to exchange sourceId with the
+|     parent/top/main window.
+| 
+* commit 9198dfc5398d4c5d157dd33e8c43d2fd1d75c601
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Tue Jul 1 04:03:10 2014 +0500
+| 
+|     RTCMultiConnection can use single chrome extension for all domains!
+|     
+|     A screen capturing extension has been deployed on Google App Store:
+|     
+|     *
+|     https://chrome.google.com/webstore/detail/screen-capturing/ajhifddimkapgcifgcodmmfdlknahffk
+|     
+|     Previously
+|     this extension was useful only with
+|     https://www.webrtc-experiment.com/.
+|     
+|     But, from today v1.8 updates,
+|     RTCMultiConnection can use same extension within any webpage!
+|     
+|     It means
+|     that you can simply ask your users to install above extension and you
+|     can use screen capturing feature in your personal pages.
+|     
+|     In simple
+|     words, "RTCMultiConnection can use single chrome extension for all
+|     domains!".
+|     
+|     Note: It is currently causing a few seconds delay which will
+|     be fixed in new commits.
+| 
+* commit de2c7db8fefd387332de453d556f2e8f4d5081ec
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jun 28 18:52:27 2014 +0500
+| 
+|     `connection.processSdp` method added.
+|     
+|     Now you can process SDP for stereo audio or opus/vp8 parameters or
+|     application-level bandwidth management.
+|     
+|     ```javascript
+|     connection.processSdp = function(sdp) {
+|         // process
+|     sdp here; e.g.
+|         // sdp = changeOpusParameters(sdp);
+|     
+|         // you
+|     must return "sdp" back.
+|         return sdp;
+|     };
+|     ```
+|     
+|     This feature gives you
+|     full control over SDP-modification. You can even use something like
+|     [SdpSerializer](https://github.com/muaz-khan/SdpSerializer) to modify
+|     the SDP.
+|     
+|     Note: This function will be called by RTCMultiConnection code. It
+|     accepts single string-argument where SDP is passed. There is no clue of
+|     the type of sdp, though. You MUST return "sdp" back using "return"
+|     statement.
+| 
+* commit 9a6605841d78c07e7518911a18bfbb95ede2a5c9
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jun 26 23:32:47 2014 +0500
+| 
+|     `connection.join('sessionid')` fixed.
+|     
+|     `connection.join('sessionid')` fixed. Now, `onNewSession` will NEVER be
+|     fired if you're calling "join" method whilst passing "string" as
+|     session-id.
+|     
+|     ```javascript
+|     connection.onNewSession = function(session)
+|     {
+|         // this code isn't called
+|         // because "join" method is called
+|     with string-argument
+|         // you should use "connect" method if you want
+|     "onNewSession" to be fired.
+|     
+|     session.join();
+|     };
+|     
+|     connection.join('session-id');
+|     ```
+| 
+* commit 917dc3e8a94ffd387cd15c3ee2d728f9807a20dc
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Thu Jun 26 22:29:59 2014 +0500
+| 
+|     (to fix canary ipv6 candidates issues): disabled "googIPv6"
+| 
+* commit b3b44c73edb0b2db2563c612f0f455f8c19dc1ee
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jun 25 23:23:16 2014 +0500
+| 
+|     "connection.leaveOnPageUnload" added.
+|     
+|     ```javascript
+|     // if you want to prevent default
+|     behaviour
+|     connection.leaveOnPageUnload = false;
+|     
+|     // display a
+|     notification box
+|     window.addEventListener('beforeunload', function () {
+|     
+|     return 'Are you want to leave?';
+|     }, false);
+|     
+|     // leave
+|     here
+|     window.addEventListener('unload', function () {
+|     
+|     connection.leave();
+|     }, false);
+|     ```
+| 
+* commit 4c6fb92e1ecd02ba185afb6f3fa9a0d72e803acf
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jun 25 21:22:52 2014 +0500
+| 
+|     onstream: event.blobURL is fixed for Firefox.
+|     
+|     [`onstream`](http://www.rtcmulticonnection.org/docs/onstream/):
+|     "event.blobURL" for Firefox, fixed. Previously it was returning
+|     "MediaStream" object.
+|     
+|     ```javascript
+|     connection.onstream = function(e)
+|     {
+|         // e.blobURL -- now it is always blob:URI
+|     };
+|     ```
+|     
+|     `connection.DetectRTC.hasSpeakers` added. It works only on Chrome
+|     Canary, though.
+| 
+* commit 7079d195ce17e6a644561de025ccacdd9c10b971
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jun 25 07:51:37 2014 +0500
+| 
+|     Issues list updated.
+|     
+|     https://github.com/muaz-khan/RTCMultiConnection-experimental#issues
+| 
+* commit 781372c2300a13fc5078b96bd6ea1dff4d9ebd02
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Wed Jun 25 07:30:05 2014 +0500
+| 
+|     Renegotiation scenarios fixed.
+|     
+|     As
+|     [`sdpConstraints`](http://www.rtcmulticonnection.org/docs/sdpConstraints/)
+|     suggests, you MUST always "manually" set `OfferToReceiveAudio` and
+|     `OfferToReceiveVideo` to make sure renegotiation
+|     works.
+|     
+|     ```javascript
+|     connection.sdpConstraints.mandatory = {
+|     
+|     OfferToReceiveAudio: true,
+|         OfferToReceiveVideo:
+|     true
+|     };
+|     ```
+|     
+|     Actually, assume that you're using [MultiRTC
+|     Demo](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/MultiRTC-simple)
+|     which, by default, opens text only conversation i.e. only WebRTC data
+|     connection is established on initial handshake. It means that, in
+|     theory, we don't need to set `OfferToReceiveAudio` and
+|     `OfferToReceiveVideo` to `true` however MultiRTC demo will fail to
+|     renegotiate audio/video/screen if media-lines are not included in the
+|     initial session descriptions. Behind the scene, chrome fails to gather
+|     ice candidates **if we add media lines at runtime**. Personally I think
+|     it is a bug in chromium, however I don't know inner working issues.
+|     Until it is fixed in chromium, I'll always recommend to include both
+|     audio/video media lines in the session descriptions to make sure later
+|     renegotiated sessions are capable to gather candidates or older relevant
+|     "pending" ports can be used for connection setup.
+| 
+* commit f1ac2637e3a2fcbd8659c1988f3a51105cb57319
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Mon Jun 23 20:38:10 2014 +0500
+| 
+|     "connection.donotJoin" added.
+|     
+|     `connection.donotJoin` added:
+|     
+|     ```javascript
+|     connection.onstatechange =
+|     function (state) {
+|         if(state == 'room-not-available') {
+|     
+|     connection.donotJoin(connection.sessionid);
+|         }
+|     };
+|     ```
+|     
+|     You can use
+|     `donotJoin` in following cases:
+|     
+|     1. If `onstatechange` indicated that
+|     room isn't available.
+|     2. If you invoked `connection.join` but you didn't
+|     yet allowed the camera.
+|     3. If you invoked `connection.join` and you
+|     allowed the camera but you quickly changed your mind to not join the
+|     session.
+|     
+|     When you'll invoke `connection.donotJoin`, RTCMultiConnection
+|     will NEVER send participation request to the initiator. Without
+|     participation request, you can't join a session.
+| 
+* commit 47307cacebec54b6684fdb40330e541c36dea52d
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sun Jun 22 15:43:46 2014 +0500
+| 
+|     sharePartOfScreen is fixed for all users. resumePartOfScreenSharing added. connection.DetectRTC.screen.extensionid added.
+|     
+|     `connection.resumePartOfScreenSharing()` added.
+|     
+|     Now if you'll invoke
+|     `connection.sharePartOfScreen(...)` and a new user will join you;
+|     existing part of screen will be auto shared with him.
+|     
+|     It means that
+|     sharePartOfScreen will work with all new/old users.
+|     
+|     -. renegotiation
+|     scenarios that fails:
+|     -. 1) if chrome starts video-only session and
+|     firefox joins with only audio
+|     -. 2) if chrome starts with audio-only
+|     session and firefox joins with only video
+|     -. 3) if chrome starts only
+|     audio and firefox joins with audio+video
+|     -. renegotiation scenarios that
+|     works:
+|     -. 1) if chrome starts audio+video and firefox joins with only
+|     audio or audio+video
+|     -. 2) if both browsers has similar streams
+|     
+|     You can
+|     set `connection.DetectRTC.screen.extensionid="your-chrome-extensionid"`
+|     to make sure inline (newly) installed chrome extension is quickly used
+|     for screen capturing instead of prompting user to reload page once to
+|     use it.
+|     
+|     It means that install the chrome extension and
+|     RTCMultiConnection will auto use it. Don't ask your users to reload the
+|     page:
+|     
+|     ```javascript
+|     connection.DetectRTC.screen.extensionid =
+|     'ajhifddimkapgcifgcodmmfdlknahffk';
+|     ```
+| 
+* commit 094d3bfe7f7c1b6889ba381b37cde82f117dda7e
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jun 21 21:05:54 2014 +0500
+| 
+|     Event "onstatechange" added and event "onstats" is removed.
+|     
+|     connection.onstatechange = function (state, reason) {
+|         //
+|     fetching-usermedia
+|         // usermedia-fetched
+|     
+|         //
+|     detecting-room-presence
+|         // room-not-available
+|         //
+|     room-available
+|     
+|         // connecting-with-initiator
+|         //
+|     connected-with-initiator
+|     
+|         // failed---has reason
+|     
+|         //
+|     request-accepted
+|         // request-rejected
+|     
+|         if(state ==
+|     'room-not-available') {
+|             // room no longer exist
+|         }
+|     };
+| 
+* commit 077158ba1f4805bbcc549bdce72d0e8accee465a
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jun 21 19:35:03 2014 +0500
+| 
+|     Some minor fixes in video-quality and renegotiation.
+| 
+* commit 60738418dec6b9b5a4b33c9dde677fcfa1755bb0
+| Author: Muaz Khan <muazkh@gmail.com>
+| Date:   Sat Jun 21 01:32:44 2014 +0500
+| 
+|     Partially fixed sendrecv/sendonly/recvonly conflicts.
+|     
+|     ## Recent Changes?
+|     
+|     1. If Chrome starts audio+video, then Firefox can
+|     join it with only audio or only video or audio+video.
+|     2. If Firefox
+|     starts audio+video, then Chrome can join it with only audio or only
+|     video or audio+video.
+|     
+|     You don't need to manually set
+|     "OfferToReceiveAudio" and/or "OfferToReceiveVideo".
+|     
+|     ## Issues?
+|     
+|     1. If Chrome starts video-only session; and Firefox joins
+|     with only audio. Then both fails to connect; though
+|     sendrecv/recvonly/sendonly everything is correctly implemented.
+|     2. New
+|     changes affects renegotiation because new-changes are manually checking
+|     for:
+|     
+|         ```javascript
+|         // i.e. checking only first media stream
+|     
+|     connection.attachStreams[0].getVideoTracks();
+| 
+* commit 2abf1633e2f184f3bc33a4413cd64e185fd2da89
+  Author: Muaz Khan <muazkh@gmail.com>
+  Date:   Fri Jun 20 22:55:27 2014 +0500
+  
+      RTCMultiConnection-v1.8.js
+      
+      https://github.com/muaz-khan/RTCMultiConnection-experimental

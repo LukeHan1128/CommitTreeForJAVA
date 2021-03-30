@@ -11,6 +11,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Main extends JFrame{
+    /**
+     * Author: LukeHan <LukeHan1128@gmail.com>
+     * Date:   Tue Mar 30 20:00:00 2021 +0900
+     */
     private static ArrayList<Point> plist = new ArrayList<Point>();
     private static ArrayList<String> gitlog = new ArrayList<String>();
 
